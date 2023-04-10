@@ -10,7 +10,7 @@
 
 body { 
     font-family: "Noto Serif", sans-serif;
-    font-weight: 00;
+    font-weight: 300;
 }
 
 header, section, footer {
@@ -21,6 +21,19 @@ header, section, footer {
     border: 1px solid #000;
     color: #fff;
     width: 100%;
+}
+
+header {
+    flex-direction: row;
+    padding: 16px;
+}
+
+section, footer { 
+    flex-direction: column;
+}
+
+nav li {
+    list-style-type: none;
 }
 
 header {

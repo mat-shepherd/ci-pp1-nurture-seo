@@ -12,11 +12,15 @@
 </head>
 <body>
     <header>
-        <div class="logo">
+        <div id="logo">
             <a href="#hero"><img src="https://placehold.co/100x50" alt="Nurture SEO Consultancy Logo"></a>
-        </div>   
-        <nav>
-            <ul class="menu"> 
+        </div> 
+        <input id="menu-toggle" type="checkbox">
+        <label class="menu-button-container" for="menu-toggle">
+            <div class="menu-button"></div>
+        </label>
+        <nav id="nav-bar">
+            <ul id="menu-items"> 
                 <li><a href="#hero">Home</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#testimonials">Testimonials</a></li>
@@ -32,7 +36,7 @@
             <p>Hero Text</p>
         </div>
         <div>
-            <img src="https://placehold.co/320x320" alt="Image of Matthew Shepherd srrounded by digital marketing icons">
+            <img src="https://placehold.co/280x280" alt="Image of Matthew Shepherd srrounded by digital marketing icons">
         </div>
     </section>
     <section id="client-logos-container" class="">
