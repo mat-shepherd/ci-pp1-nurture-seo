@@ -39,7 +39,21 @@ section, footer {
     justify-content: center;    
 }
 
-/* Navigation Menu */
+/* Navigation Menu  */
+#logo {
+    width: 30%
+}
+
+nav {
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+    color: #FFF;
+    height: 50px;
+    padding: 1em 0;
+}
 
 nav li {
     list-style-type: none;
@@ -51,11 +65,19 @@ nav li a {
 
 .menu-button-container {
     display: flex;
+    height: 100%;
+    width: 30px;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left : 75%;
 }
 
-.menu-items {
+#menu-toggle:checked ~ .menu-items {
     position: absolute;
-    top: 0;
+    top: 32px;
     left: 0;
     margin-top: 50px;
     width: 100%;
@@ -92,6 +114,52 @@ nav li a {
 .menu-items > li:not(:last-child) {
     border-bottom: 1px solid #444;
 }
+
+#menu-toggle {
+    display: none;
+}
+
+.menu-button,
+.menu-button::before,
+.menu-button::after {
+display: block;
+background-color: #fff;
+position: absolute;
+height: 4px;
+width: 30px;
+transition: transform 400ms cubic-bezier(0.23, 1, 0.32, 1);
+border-radius: 2px;
+}
+
+.menu-button::before {
+content: '';
+margin-top: -8px;
+}
+
+.menu-button::after {
+content: '';
+margin-top: 8px;
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button::before {
+margin-top: 0px;
+transform: rotate(405deg);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button {
+background: rgba(255, 255, 255, 0);
+}
+
+#menu-toggle:checked + .menu-button-container .menu-button::after {
+margin-top: 0px;
+transform: rotate(-405deg);
+}
+
+.menu-items > li {
+    margin: 0 1rem;
+    overflow: hidden;
+}
+
 
 /* End Navigation Menu */
 
@@ -150,4 +218,37 @@ footer {
 
 @media only screen and (min-width: 768px) {
     
+/* Navigation Menu  */
+
+.menu-items {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-button-container {
+    display: none;
+}
+
+.menu-items > li:not(:last-child) {
+    border-bottom: 1px solid #444;
+}
+.menu-items > li {
+    margin: 0 1rem;
+    overflow: hidden;
+}
+
+#menu-toggle ~ .menu-items li {
+    display: list-item;
+    height:auto;
+    margin: 0;
+    padding: 0.5em;
+    width: auto;
+    color: #fff;
+    background-color: transparent;
+}
+
+/* End Navigation Menu  */
 }
