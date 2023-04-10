@@ -1,0 +1,66 @@
+/* Mobile Styles */
+header, section, footer {
+    margin: 0px;
+    padding: 20px;
+    border: 1px solid #000;
+    color: #fff;
+}
+
+header {
+    background: blue;
+}
+
+#hero {
+    background: purple;
+}
+
+#client-logos-container {
+    background: green;
+}
+
+#parallax1 {
+    background: slategray;
+}
+
+#services {
+    background: lightblue;
+}
+
+#parallax2 {
+    background: slategray;  
+}
+
+#testimonials {
+    background: orange;
+}
+
+#parallax3 {
+    background: slategray;
+}
+
+#about {
+    background: red;
+}
+
+#parallax4 {
+    background: slategray;
+}
+
+#contact {
+    background: red;
+}
+
+footer {
+    background: grey;
+}
+
+
+/* Tablet Styles */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 768px) {
+    
+}
