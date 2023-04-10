@@ -1,7 +1,7 @@
 /* Mobile Styles */
 header, section, footer {
     margin: 0px;
-    padding: 20px;
+    padding: 0px;
     border: 1px solid #000;
     color: #fff;
 }
