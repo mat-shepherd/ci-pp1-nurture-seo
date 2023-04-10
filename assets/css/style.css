@@ -21,6 +21,18 @@ html, body {
     height: 100%;
 }
 
+section {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;    
+}
+
+section > div {
+width: 100%;
+text-align: center;
+}
+
 h1, h2, h3, h4, h5, h6, p {
     margin: 0 0 1em 0;
 }
@@ -107,7 +119,6 @@ nav li a:hover {
     justify-content: center;
     align-items: center;
 }
-
 
 #menu-toggle ~ .menu-items li {
     height: 0;
@@ -197,23 +208,14 @@ transform: rotate(-405deg);
     overflow: hidden;
 }
 
-
 /* End Navigation Menu */
 
 /* Hero Section */
 
 #hero {
-    background: purple;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;    
+    background: purple;  
 }
 
-#hero > div {
-    width: 100%;
-    text-align: center;
-}
 /* End Hero Section */
 
 #client-logos-container {
