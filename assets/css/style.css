@@ -10,11 +10,18 @@
     box-sizing: border-box;
 }
 
-/* General Layout */
 html, body { 
     font-family: "Noto Serif", sans-serif;
     font-weight: 300;
+}
+
+/* General Layout */
+html, body { 
     height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 1em 0;
 }
 
 header, section, footer {
@@ -46,14 +53,20 @@ section, footer {
     display:inline-block;
     border-radius: 50px;
     background-color:red;
+    color: #fff;
     padding: 10px 22px;
-    margin-left: 1em;
+    margin: 1em 0;
+    text-decoration: none;
 }
 
 a.cta-btn:hover{
     text-decoration: none;
     background-color:white;
     color: red;
+}
+
+.menu-items .cta-btn {
+    margin-left: 1em;    
 }
 
 /* Navigation Menu - Adapted from https://codepen.io/alvarotrigo/pen/MWEJEWG */
