@@ -1,5 +1,6 @@
 /* Mobile Styles */
 
+/* Fonts */ 
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
 
 * {
@@ -9,6 +10,7 @@
     box-sizing: border-box;
 }
 
+/* General Layout */
 html, body { 
     font-family: "Noto Serif", sans-serif;
     font-weight: 300;
@@ -39,10 +41,22 @@ section, footer {
     justify-content: center;    
 }
 
-/* Navigation Menu - Adapted from  */
-#logo {
-    width: 30%
+/* Buttons */
+.cta-btn {
+    display:inline-block;
+    border-radius: 50px;
+    background-color:red;
+    padding: 10px 22px;
+    margin-left: 1em;
 }
+
+a.cta-btn:hover{
+    text-decoration: none;
+    background-color:white;
+    color: red;
+}
+
+/* Navigation Menu - Adapted from https://codepen.io/alvarotrigo/pen/MWEJEWG */
 
 nav {
     height: auto;
@@ -61,6 +75,12 @@ nav li {
 
 nav li a {
     color: #fff;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: #fff;
+    text-decoration: underline;
 }
 
 .menu-button-container {
@@ -165,9 +185,20 @@ transform: rotate(-405deg);
 
 /* End Navigation Menu */
 
+/* Hero Section */
+
 #hero {
     background: purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
 }
+
+#hero > div {
+    width: 50%;
+}
+/* End Hero Section */
 
 #client-logos-container {
     background: green;
@@ -228,6 +259,7 @@ footer {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    align-items: center;
 }
 
 .menu-button-container {
