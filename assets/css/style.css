@@ -1,9 +1,26 @@
 /* Mobile Styles */
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+body { 
+    font-family: "Noto Serif", sans-serif;
+    font-weight: 300;
+}
+
 header, section, footer {
     margin: 0px;
     padding: 0px;
+    display: flex;
+    justify-content: center;
     border: 1px solid #000;
     color: #fff;
+    width: 100%;
 }
 
 header {
@@ -51,16 +68,18 @@ header {
 }
 
 footer {
-    background: grey;
+    background: darkgray;
 }
 
 
 /* Tablet Styles */
+
 @media only screen and (min-width: 600px) {
 
 }
 
 /* Desktop Styles */
+
 @media only screen and (min-width: 768px) {
     
 }
