@@ -62,6 +62,10 @@ section, footer {
     justify-content: center;    
 }
 
+section[id^="parallax"] {
+    display:none;
+}
+
 /* Buttons */
 .cta-btn {
     display:inline-block;
@@ -218,9 +222,23 @@ transform: rotate(-405deg);
 
 /* End Hero Section */
 
+/* Client Logos Section*/
 #client-logos-container {
     background: green;
 }
+
+#client-logos {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    row-gap: 25px;
+}
+
+#client-logos img {
+
+}
+/* End Client Logos Section*/
 
 #parallax1 {
     background: slategray;
@@ -262,6 +280,14 @@ footer {
 /* Tablet Styles */
 
 @media only screen and (min-width: 600px) {
+
+/* General Layout */
+section[id^="parallax"] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
 
 }
 
