@@ -2,7 +2,7 @@
 
 /* Fonts */ 
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
-
+  
 * {
     margin: 0;
     padding: 0;
@@ -241,9 +241,24 @@ transform: rotate(-405deg);
     background: slategray;
 }
 
+/* Services Section*/
 #services {
     background: lightblue;
 }
+
+.service-container {
+    background-color: darkgrey;
+    border-radius: 25px;
+    padding: 20px;
+    width: 280px;
+    flex: 0 1 350px;
+}
+
+#service2 {
+    margin: 20px 0;
+}
+
+/* End Services Section*/
 
 #parallax2 {
     background: slategray;  
