@@ -328,6 +328,10 @@ transform: rotate(-405deg);
     background: red;
 }
 
+#about-container {
+    width: 280px;
+}
+
 /* End About Section */
 
 #parallax4 {
@@ -338,6 +342,11 @@ transform: rotate(-405deg);
 
 #contact {
     background: navy;
+}
+
+#connect-container {
+    width: 280px;
+    padding-bottom: 1.5em;
 }
 
 .form-container {
