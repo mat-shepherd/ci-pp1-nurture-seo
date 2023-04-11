@@ -37,14 +37,14 @@ html, body {
     height: 100%;
 }
 
-section {
+section, footer {
 display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;    
 }
 
-section > div {
+section > div, footer > div {
 width: 100%;
 text-align: center;
 }
@@ -244,6 +244,10 @@ transform: rotate(-405deg);
     background: green;
 }
 
+#client-logos-inner {
+    width: 280px;
+}
+
 #client-logos {
     display:flex;
     flex-direction: row;
@@ -306,6 +310,7 @@ transform: rotate(-405deg);
 
 .testimonials-container blockquote {
     margin: 32px 0;
+    padding: 0 1em;
 }
 
 #testimonial-name {
@@ -330,6 +335,7 @@ transform: rotate(-405deg);
 
 #about-container {
     width: 280px;
+    padding: 0 1em;
 }
 
 /* End About Section */
