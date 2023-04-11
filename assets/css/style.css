@@ -2,7 +2,7 @@
 
 /* Fonts */ 
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
-  
+
 * {
     margin: 0;
     padding: 0;
@@ -248,10 +248,23 @@ transform: rotate(-405deg);
 
 .service-container {
     background-color: darkgrey;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
     border-radius: 25px;
-    padding: 20px;
+    padding: 32px 25px;
     width: 280px;
-    flex: 0 1 350px;
+    flex: 1 1 300px;
+    align-items: center;
+}
+
+.service-container p {
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+.service-container .cta-btn {
+	margin: 5px 0 0 0;
 }
 
 #service2 {
