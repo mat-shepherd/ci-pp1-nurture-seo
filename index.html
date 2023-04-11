@@ -120,8 +120,22 @@
             <span class="social-link"><a href="https://instagram.com/nurtureseo" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)"></a>instagram.com/nurtureseo</a></span>
         </div>
         <div id="form-container">
-            <form action="">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+                <h2>Get in Touch</h2>
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="first_name" class="text-field" required>
 
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="last_name" class="text-field" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" class="email-field" required>
+
+                <label for="message">Message</label>
+                <textarea id="message" name="message" class="textarea-field" required>
+                </textarea>
+
+                <input type="submit" class="cta-btn" value="Submit">
             </form>
         </div>
     </section>
