@@ -3,17 +3,33 @@
 /* Fonts */ 
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
 
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-    box-sizing: border-box;
-}
 
 html, body { 
     font-family: "Noto Serif", sans-serif;
     font-weight: 300;
     font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Oswald, sans‑serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.25em;   
+}
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
 }
 
 /* General Layout */
@@ -32,6 +48,7 @@ section > div {
 width: 100%;
 text-align: center;
 }
+
 
 h1, h2, h3, h4, h5, h6, p {
     margin: 0 0 1em 0;
@@ -277,9 +294,29 @@ transform: rotate(-405deg);
     background: slategray;  
 }
 
+/* Testimonials Section*/
+
 #testimonials {
     background: orange;
 }
+
+.testimonials-container {
+    width: 280px;
+}
+
+.testimonials-container blockquote {
+    margin: 32px 0;
+}
+
+#testimonial-name {
+    display: block;
+}
+
+#testimonial-company {
+    display: block;
+}
+
+/* End Testimonials Section*/
 
 #parallax3 {
     background: slategray;
