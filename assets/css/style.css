@@ -340,6 +340,40 @@ transform: rotate(-405deg);
     background: navy;
 }
 
+.form-container {
+    background-color: darkgrey;
+    display:flex;
+    flex-direction: column;
+    justify-content: left;
+    border-radius: 25px;
+    padding: 32px 25px;
+    width: 280px;
+    flex: 1 1 300px;
+    align-items: center;    
+}
+
+.form-container label {
+   display: block; 
+}
+
+.form-container .text-field {
+    color: black;
+    height: 25px;
+    width: 100%;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 25px; 
+}
+
+.form-container .textarea-field {
+    color: black;
+    height: 25px;
+    width: 100%;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 25px; 
+}
+
 /* End Contact Section */
 
 footer {
