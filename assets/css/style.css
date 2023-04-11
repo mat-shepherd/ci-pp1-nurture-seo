@@ -322,17 +322,25 @@ transform: rotate(-405deg);
     background: slategray;
 }
 
+/* About Section */
+
 #about {
     background: red;
 }
+
+/* End About Section */
 
 #parallax4 {
     background: slategray;
 }
 
+/* Contact Section */
+
 #contact {
-    background: red;
+    background: navy;
 }
+
+/* End Contact Section */
 
 footer {
     background: darkgray;
