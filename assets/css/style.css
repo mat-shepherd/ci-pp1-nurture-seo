@@ -94,7 +94,7 @@ section[id^="parallax"] {
     text-decoration: none;
 }
 
-a.cta-btn:hover{
+a.cta-btn:hover {
     text-decoration: none;
     background-color:white;
     color: red;
@@ -391,10 +391,27 @@ transform: rotate(-405deg);
 
 /* End Contact Section */
 
+/* Footer Section */
+
 footer {
     background: darkgray;
 }
 
+footer li {
+    list-style-type: none;
+}
+
+footer li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer li a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* End Footer Section */
 
 /* Tablet Styles */
 
