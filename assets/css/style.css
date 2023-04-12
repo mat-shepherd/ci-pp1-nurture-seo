@@ -468,6 +468,10 @@ footer li a:hover {
     padding: 0 0 1.5em 0;
 }
 
+#footer-top .cta-btn {
+    margin-bottom: 1.5em;
+}
+
 #logo-tagline img {
     margin-bottom: 1.5em;
 }
