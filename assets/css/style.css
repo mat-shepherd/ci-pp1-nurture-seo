@@ -525,7 +525,7 @@ section[id^="parallax"] {
     align-items: center;  
 }
 
-section, footer {
+section, #footer-top, #footer-bottom {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -540,20 +540,23 @@ header, section, footer {
     border-bottom: none;
 }
 
+#client-logos-container, #footer-links {
+    border-top: none;
+}
+
+/*  Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths */
+
+#hero-text-container, #hero > div, #about-container, #about-image-outer, #logo-tagline, #footer-links {
+    width: 40%;
+    margin: auto;
+}
+
 #hero-image {
     text-align: center;
 }
 
-#client-logos-container {
-    border-top: none;
-}
-
-/*  Hero, Testimonial, Contact Multi Column Section Widths */
-
-#hero-text-container, #hero > div, #about-container, #about-image-outer {
-    width: 40%;
+#hero-text-container, #hero-text-container, #about-container, #about-image-outer {
     text-align: left;
-    margin: auto;
 }
 
 #contact {
@@ -575,6 +578,11 @@ header, section, footer {
 
 #about-container, #about-image-outer {
     width: 40%;
+}
+
+#footer-links li {
+    display: inline;
+    margin-right: 20px;
 }
 
 }
