@@ -529,18 +529,29 @@ section, footer {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;    
+    align-items: center;  
 }
 
-#hero {
+header, section, footer {
     padding: 3.5em;
 }
+
+/*  Hero Section */
 
 #hero-text-container, #hero > div {
     width: 40%;
     text-align: left;
     margin: auto;
 }
+
+/* End Hero Section */
+
+/* Client Logos Section*/
+#client-logos-inner {
+    width: 80%;
+}
+
+/* End Client Logos Section*/
 
 }
 
