@@ -8,6 +8,7 @@ html, body {
     font-family: "Noto Serif", sans-serif;
     font-weight: 300;
     font-size: 16px;
+    color: #333;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -60,7 +61,7 @@ header, section, footer {
     padding: 0;
     display: flex;
     border: 1px solid #000;
-    color: #fff;
+    color: #333;
     width: 100%;
     padding: 1.5em;
 }
@@ -391,7 +392,7 @@ transform: rotate(-405deg);
 }
 
 .social-link a:link, .social-link a:visited, .social-link a:active {
-    color: #fff;
+    color: #333;
     text-decoration: none;
 }
 
