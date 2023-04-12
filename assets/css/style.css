@@ -536,22 +536,34 @@ header, section, footer {
     padding: 3.5em;
 }
 
-/*  Hero Section */
+/*  Hero, Testimonial, Contact Multi Column Section Widths */
 
-#hero-text-container, #hero > div {
+#hero-text-container, #hero > div, #about-container, #about-image-outer {
     width: 40%;
     text-align: left;
     margin: auto;
 }
 
-/* End Hero Section */
+#contact {
+    flex-direction: row-reverse;
+}
 
-/* Client Logos Section*/
-#client-logos-inner {
+#connect-container, .form-container {
+    width: 20%;
+    text-align: left;
+    margin: auto;
+}
+
+
+/* Client Logos & Testimonial Single Column Section Widths */
+
+#client-logos-inner, .testimonials-container {
     width: 80%;
 }
 
-/* End Client Logos Section*/
+#about-container, #about-image-outer {
+    width: 40%;
+}
 
 }
 
