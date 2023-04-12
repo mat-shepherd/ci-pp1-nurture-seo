@@ -289,13 +289,13 @@ transform: rotate(-405deg);
 
 #parallax3 {
     background: url('/assets/images/nurture-growing.webp') no-repeat fixed top / cover;
-    height: 40vh;
+    height: 20vh;
     padding: 0;     
 }
 
 #parallax4 {
     background: url('/assets/images/nurture-harvest.webp') no-repeat fixed top / cover;
-    height: 25vh;
+    height: 7.5vh;
     padding: 0;   
 }
 
