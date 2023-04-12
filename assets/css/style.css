@@ -261,19 +261,27 @@ transform: rotate(-405deg);
 /* Parallax Sections */
 
 #parallax1 {
-    background: slategray;
+    background: url('/assets/images/nurture-growth.webp') no-repeat fixed top / cover;
+    height: 300px;
+    padding: 0;
 }
 
 #parallax2 {
-    background: slategray;  
+    background: url('/assets/images/nurture-protect.webp') no-repeat fixed top / cover;
+    height: 200px;
+    padding: 0;    
 }
 
 #parallax3 {
-    background: slategray;
+    background: url('/assets/images/nurture-growing.webp') no-repeat fixed top / cover;
+    height: 300px;
+    padding: 0;     
 }
 
 #parallax4 {
-    background: slategray;
+    background: url('/assets/images/nurture-harvest.webp') no-repeat fixed top / cover;
+    height: 200px;
+    padding: 0;   
 }
 
 /* End Parallax Sections */
