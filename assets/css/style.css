@@ -60,7 +60,7 @@ header, section, footer {
     margin: auto;
     padding: 0;
     display: flex;
-    border: 1px solid #000;
+    border: 1px solid lightgray;
     color: #333;
     width: 100%;
     padding: 1.5em;
@@ -182,7 +182,7 @@ nav li a:hover {
     height: 5em;
     align-items: center;
     padding: 0.5em;
-    border: 1px solid #333;
+    border: 1px solid lightgray;
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
     width: 100%;
 }
@@ -193,12 +193,12 @@ nav li a:hover {
     margin: 0;
     padding: 0.5em;
     width: 100%;
-    color: #fff;
-    background-color: blue;    
+    color: #333;
+    background-color: #fff;    
 }
 
 .menu-items > li:not(:last-child) {
-    border-bottom: 1px solid #444;
+    border-bottom: 1px solid lightgray;
 }
 
 #menu-toggle {
@@ -209,7 +209,7 @@ nav li a:hover {
 .menu-button::before,
 .menu-button::after {
 display: block;
-background-color: #fff;
+background-color: #333;
 position: absolute;
 height: 4px;
 width: 30px;
