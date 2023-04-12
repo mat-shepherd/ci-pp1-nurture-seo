@@ -88,7 +88,7 @@ section[id^="parallax"] {
 .cta-btn {
     display:inline-block;
     border-radius: 50px;
-    background-color:red;
+    background-color: #4CAF50;
     color: #fff;
     padding: 10px 22px;
     margin: 1em 0;
@@ -98,11 +98,27 @@ section[id^="parallax"] {
 a.cta-btn:hover {
     text-decoration: none;
     background-color:white;
-    color: red;
+    color: #4CAF50;
 }
 
 .menu-items .cta-btn {
     margin-left: 1em;    
+}
+
+footer .cta-btn, nav .cta-btn {
+    display:inline-block;
+    border-radius: 50px;
+    background-color: #FF5722;
+    color: #fff;
+    padding: 10px 22px;
+    margin: 1em 0;
+    text-decoration: none;
+}
+
+footer a.cta-btn:hover, nav a.cta-btn:hover {
+    text-decoration: none;
+    background-color:white;
+    color: #FF5722;
 }
 
 /* Navigation Menu - Adapted from https://codepen.io/alvarotrigo/pen/MWEJEWG */
@@ -236,6 +252,11 @@ transform: rotate(-405deg);
 
 #hero {
     background: purple;  
+}
+
+#hero-text-container {
+    width: 280px;
+    padding-bottom: 1.5em;
 }
 
 /* End Hero Section */
