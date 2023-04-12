@@ -355,6 +355,22 @@ transform: rotate(-405deg);
     padding-bottom: 1.5em;
 }
 
+.social-link {
+    display: inline-block;
+    min-width: 250px;
+    text-align: left;    
+}
+
+.social-link a:visited, .social-link a:active {
+    color: #fff;
+}
+
+.social-link img {
+    position: relative;
+    top: 12px;
+    margin-right: 12px;
+}
+
 .form-container {
     background-color: darkgrey;
     display:flex;
