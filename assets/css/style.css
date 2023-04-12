@@ -262,6 +262,10 @@ transform: rotate(-405deg);
     background: slategray;
 }
 
+/* Parallax Sections */
+
+/* End Parallax Sections */
+
 /* Services Section*/
 #services {
     background: lightblue;
@@ -361,8 +365,9 @@ transform: rotate(-405deg);
     text-align: left;    
 }
 
-.social-link a:visited, .social-link a:active {
+.social-link a:link, .social-link a:visited, .social-link a:active {
     color: #fff;
+    text-decoration: none;
 }
 
 .social-link img {
@@ -375,16 +380,30 @@ transform: rotate(-405deg);
     background-color: darkgrey;
     display:flex;
     flex-direction: column;
-    justify-content: left;
     border-radius: 25px;
     padding: 32px 25px;
+    margin-top: 1.5em;    
     width: 280px;
-    flex: 1 1 300px;
+    flex: 1 1 440px;
+    justify-content: space-between;
     align-items: center;    
 }
 
-.form-container label {
+.form-container form {
+    text-align: left;
+    width: 95%;
+}
+
+.form-center, .form-container label {
    display: block; 
+}
+
+.form-center {
+    text-align: center;
+}
+
+.form-center .cta-btn {
+    margin: 0;
 }
 
 .form-container .text-field {
@@ -425,6 +444,26 @@ footer li a {
 footer li a:hover {
     color: #fff;
     text-decoration: underline;
+}
+
+#footer-top {
+    width: 90%;
+    padding: 0 0 1.5em 0;
+}
+
+#logo-tagline img {
+    margin-bottom: 1.5em;
+}
+
+#footer-links {
+    padding: 1.5em 0 0 0;
+    border-top: 1px solid #fff;
+}
+
+#footer-bottom {
+    width: 90%;
+    padding: 1.5em 0 0 0;
+    border-top: 1px solid #fff;
 }
 
 /* End Footer Section */
