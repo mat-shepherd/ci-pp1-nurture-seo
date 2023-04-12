@@ -346,6 +346,23 @@ transform: rotate(-405deg);
     padding: 0 1em;
 }
 
+#about-image-container {
+    width: 280px;
+    height: 280px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 1.5em auto 0 auto;
+}
+
+#about-image-bg {
+    background: url('/assets/images/matthew-shepherd.webp') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
 /* End About Section */
 
 /* Contact Section */
