@@ -71,8 +71,7 @@ header {
     padding: 1.5em;
     justify-content: space-between;
     align-items: center;
-    height: 82px;
-    background: blue;    
+    height: 82px;   
 }
 
 section, footer { 
@@ -129,7 +128,7 @@ nav {
     flex-direction: column;
     align-items: center;
     justify-content: right;
-    color: #FFF;
+    color: #333;
     height: auto;
     padding: 1em 0;
 }
@@ -139,12 +138,13 @@ nav li {
 }
 
 nav li a {
-    color: #fff;
+    color: #333;
     text-decoration: none;
+    font-weight: bold;
 }
 
 nav li a:hover {
-    color: #fff;
+    color: #333;
     text-decoration: underline;
 }
 
@@ -250,10 +250,6 @@ transform: rotate(-405deg);
 
 /* Hero Section */
 
-#hero {
-    background: purple;  
-}
-
 #hero-text-container {
     width: 280px;
     padding-bottom: 1.5em;
@@ -262,9 +258,6 @@ transform: rotate(-405deg);
 /* End Hero Section */
 
 /* Client Logos Section*/
-#client-logos-container {
-    background: green;
-}
 
 #client-logos-inner {
     width: 280px;
@@ -309,9 +302,6 @@ transform: rotate(-405deg);
 /* End Parallax Sections */
 
 /* Services Section*/
-#services {
-    background: lightblue;
-}
 
 .service-container {
     display:flex;
@@ -322,6 +312,7 @@ transform: rotate(-405deg);
     width: 280px;
     flex: 1 1 300px;
     align-items: center;
+    border: 1px solid lightgray;
 }
 
 .service-container p {
@@ -353,9 +344,6 @@ transform: rotate(-405deg);
 
 /* Testimonials Section*/
 
-#testimonials {
-    background: orange;
-}
 
 .testimonials-container {
     width: 280px;
@@ -378,10 +366,6 @@ transform: rotate(-405deg);
 
 /* About Section */
 
-#about {
-    background: red;
-}
-
 #about-container {
     width: 280px;
     padding: 0 1em;
@@ -403,14 +387,9 @@ transform: rotate(-405deg);
     border-radius: 50%;
 }
 
-
 /* End About Section */
 
 /* Contact Section */
-
-#contact {
-    background: navy;
-}
 
 #connect-container {
     width: 280px;
@@ -435,7 +414,7 @@ transform: rotate(-405deg);
 }
 
 .form-container {
-    background-color: darkgrey;
+    background-color: rgba(60, 60, 60, 0.2);
     display:flex;
     flex-direction: column;
     border-radius: 25px;
@@ -487,7 +466,7 @@ transform: rotate(-405deg);
 /* Footer Section */
 
 footer {
-    background: darkgray;
+    background: #333;
 }
 
 footer li {
@@ -511,6 +490,10 @@ footer li a:hover {
 
 #footer-top .cta-btn {
     margin-bottom: 1.5em;
+}
+
+#logo-tagline {
+    color: #fff;
 }
 
 #logo-tagline img {
