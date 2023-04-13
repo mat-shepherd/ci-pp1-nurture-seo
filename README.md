@@ -1,35 +1,402 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Nurture SEO
+(Developer: Matthew Shepherd)
 
-Welcome,
+![Mockup image]()
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+## Table of Content
 
-## Codeanywhere Reminders
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Project Goals 
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### User Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Site Owner Goals
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+## User Experience
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Target Audience
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
+### User Requrements and Expectations
 
-Happy coding!
+
+
+### User Stories
+
+#### First-time User 
+1. 
+2. 
+3. 
+4. 
+
+#### Returning User
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+
+#### Site Owner 
+13. 
+14. 
+15. 
+
+## Design
+
+### Design Choices
+
+
+### Colour
+
+<br>
+
+![Colour scheme]()
+
+
+### Fonts
+
+### Structure
+The page is structured...
+The website consists of...
+
+### Wireframes
+
+<details><summary>Home</summary>
+
+</details>
+
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Tools
+- Git
+- GitHub
+- CodeAnywhere
+- Tinypng
+- GIMP
+- Figma
+- Google Fonts
+- Font Awwsome
+- Favicon<span>.</span>io
+
+## Features
+The website consists of...
+
+### Logo and Navigation Bar
+- 
+
+![Logo and navbar](
+
+### Feature 2
+- 
+
+![Feature 2]()
+
+
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+
+</details>
+>
+
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+
+<details><summary>whole page</summary>
+
+</details>
+<details><summary>style.css</summary>
+
+</details>
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+
+</details>
+
+
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. All elements perfomed well.
+
+<details><summary>Home</summary>
+
+</details>
+
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggling option for all available device options.
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Egde
+
+### Testing user stories
+
+1. As a first time user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+2. As a first time user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+3. As a first time user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+4. As a first time user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+5. As a returning user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+6. As a returnign user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+7. As a returning user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+8. As a returning user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+9. As a returning user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+10. As a returning user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+11. As a returning user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+12. As a returning user, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+13. As the site owner, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+14. As the site owner,  
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+15. As the site owner, 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| | |
+| | |
+| | |
+| | |
+
+## Deployment
+The website was deployed using GitHub Pages by following these steps:
+
+
+## Credits
+
+
+### Media
+In order of appearance:
+
+  
+### Code
+The markdown structure of this readme was based on the structure of the following readme.md files from other Code Institute student projects:
+- https://github.com/4n4ru/CI_MS1_BodelschwingherHof
+- https://github.com/jamie2210/CI_MS1_TBC
+
+## Acknowledgements
