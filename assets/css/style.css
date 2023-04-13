@@ -421,7 +421,7 @@ transform: rotate(-405deg);
     display:flex;
     flex-direction: column;
     border-radius: 25px;
-    padding: 32px 25px;
+    padding: 2em 1.5em;
     margin-top: 1.5em;    
     width: 280px;
     flex: 1 1 440px;
@@ -582,6 +582,7 @@ footer {
 #contact {
     flex-direction: row-reverse;
     justify-content: center;
+    align-items: flex-start;
 }
 
 #connect-container, .form-container {
@@ -592,10 +593,12 @@ footer {
 
 .form-container {
     flex: 1 0 280px;
+    padding: 2em;
 }
 
 #connect-container {
     flex: 2 2 40%;
+    padding: 2em;
 }
 
 /* Client Logos & Testimonial Single Column Section Widths */
