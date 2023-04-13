@@ -311,9 +311,9 @@ transform: rotate(-405deg);
     flex-direction: column;
     justify-content: center;
     border-radius: 25px;
-    padding: 32px 25px;
+    padding: 2em;
     width: 280px;
-    flex: 1 1 300px;
+    flex: 0 0 280px;
     align-items: center;
     border: 1px solid lightgray;
 }
@@ -529,7 +529,7 @@ footer li a:hover {
 
 @media only screen and (min-width: 600px) {
 
-/* General Layout */
+/* Tablet - General Layout */
 section[id^="parallax"] {
     display: flex;
     flex-direction: column;
@@ -564,7 +564,7 @@ footer {
     border-top: none;
 }
 
-/*  Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths */
+/*  Tablet - Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths */
 
 #hero-text-container, #hero > div, #about-container, #about-image-outer, #logo-tagline, #footer-links {
     flex: 1 1 40%;
@@ -606,20 +606,31 @@ footer {
     padding: 2em;
 }
 
-/* Client Logos & Testimonial Single Column Section Widths */
+/* Tablet - Client Logos & Testimonial Single Column Section Widths */
 
 #client-logos-inner, .testimonials-container {
     width: 80%;
 }
+/* Tablet - End Client Logos & Testimonial Single Column Section Widths */
 
+/* Tablet - Service Section */
+#service2 {
+    margin: 0;
+}
+/* Tablet - End Service Section */
+
+/* Tablet - About Section */
 #about-container, #about-image-outer {
     width: 40%;
 }
+/* Tablet - End About Section */
 
+/* Tablet - Footer Section */
 #footer-links li {
     display: inline;
     margin-right: 20px;
 }
+/* Tablet - End Footer Section */
 
 }
 
@@ -629,6 +640,10 @@ footer {
 
 header, section {
     padding: 3.5em 7.5em;
+}
+
+#client-logos-container {
+    padding: 0em 10em 3.5em 10em;
 }
 
 /* Fonts */
@@ -674,4 +689,26 @@ h2 {
 }
 
 /* End Navigation Menu  */
+}
+
+/* Wide Desktop Styles */
+
+@media only screen and (min-width: 1024px) {
+
+header, section {
+    padding: 3.5em 10em;
+}
+
+#client-logos-container {
+    padding: 0em 10em 3.5em 10em;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;   
+}
+   
 }
