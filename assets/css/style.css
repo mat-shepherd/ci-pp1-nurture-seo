@@ -514,6 +514,10 @@ footer li a:hover {
     border-top: 1px solid #fff;
 }
 
+#footer-bottom .social-icon {
+    margin-right: 1.5em;
+}
+
 /* End Footer Section */
 
 /* Tablet Styles */
@@ -528,7 +532,7 @@ section[id^="parallax"] {
     align-items: center;  
 }
 
-section, #footer-top, #footer-bottom {
+section, #footer-top {
     display: flex;
     flex-direction: row;
     justify-content: center;
