@@ -525,7 +525,7 @@ footer li a:hover {
 
 /* End Footer Section */
 
-/* Tablet Styles */
+/* Tablet Portrait Styles */
 
 @media only screen and (min-width: 600px) {
 
@@ -542,6 +542,11 @@ section, #footer-top {
     flex-direction: row;
     justify-content: center; 
     column-gap: 3.5em;
+}
+
+#services {
+    flex-wrap: wrap;
+    row-gap: 3.5em;
 }
 
 #footer-top {   
@@ -634,13 +639,14 @@ footer {
 
 }
 
-/* Desktop Styles */
+/* Small Screens and Laptop Styles */
 
 @media only screen and (min-width: 768px) {
 
 header, section {
     padding: 3.5em 7.5em;
 }
+
 
 #client-logos-container {
     padding: 0em 10em 3.5em 10em;
@@ -655,6 +661,12 @@ h2 {
     font-size: 1.5em;   
 }
     
+}
+
+/* Desktop and Landscape Tablet Styles */
+
+@media only screen and (min-width: 1024px) {
+
 /* Navigation Menu  */
 
 .menu-items {
@@ -689,11 +701,6 @@ h2 {
 }
 
 /* End Navigation Menu  */
-}
-
-/* Wide Desktop Styles */
-
-@media only screen and (min-width: 1024px) {
 
 header, section {
     padding: 3.5em 10em;
