@@ -60,10 +60,13 @@ header, section, footer {
     margin: auto;
     padding: 0;
     display: flex;
-    border: 1px solid lightgray;
     color: #333;
     width: 100%;
     padding: 1.5em;
+}
+
+header, section {
+    border-bottom: 1px solid lightgray;
 }
 
 header {
