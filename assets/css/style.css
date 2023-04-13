@@ -495,7 +495,7 @@ footer li a:hover {
     margin-bottom: 1.5em;
 }
 
-#logo-tagline {
+#logo-tagline, #footer-bottom {
     color: #fff;
 }
 
@@ -509,7 +509,7 @@ footer li a:hover {
 }
 
 #footer-bottom {
-    width: 90%;
+    width: 100%;
     padding: 1.5em 0 0 0;
     border-top: 1px solid #fff;
 }
@@ -535,12 +535,19 @@ section[id^="parallax"] {
 section, #footer-top {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;  
+    justify-content: center; 
 }
 
-header, section, footer {
-    padding: 3.5em;
+#footer-top {   
+    align-items: flex-start;
+}
+
+header, section {
+    padding: 3.5em 5em;
+}
+
+footer {
+    padding: 3.5em 0 1.5em 0;
 }
 
 #hero {
@@ -554,8 +561,13 @@ header, section, footer {
 /*  Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths */
 
 #hero-text-container, #hero > div, #about-container, #about-image-outer, #logo-tagline, #footer-links {
-    width: 40%;
+    flex: 1 1 40%;
     margin: auto;
+}
+
+#footer-links {
+    padding: 0;
+    margin: 0 auto;
 }
 
 #hero-image {
@@ -568,14 +580,22 @@ header, section, footer {
 
 #contact {
     flex-direction: row-reverse;
+    justify-content: center;
 }
 
 #connect-container, .form-container {
-    width: 20%;
     text-align: left;
-    margin: auto;
+    margin: 0 auto;
+    align-items: flex-start;
 }
 
+.form-container {
+    flex: 1 1 280px;
+}
+
+#connect-container {
+    flex: 2 2 40%;
+}
 
 /* Client Logos & Testimonial Single Column Section Widths */
 
@@ -597,6 +617,10 @@ header, section, footer {
 /* Desktop Styles */
 
 @media only screen and (min-width: 768px) {
+
+header, section {
+    padding: 3.5em 7.5em;
+}
 
 /* Fonts */
 h1 {
