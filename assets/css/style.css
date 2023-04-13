@@ -276,25 +276,25 @@ transform: rotate(-405deg);
 /* Parallax Sections */
 
 #parallax1 {
-    background: url('/assets/images/nurture-growth.webp') no-repeat fixed top / cover;
+    background: url('../assets/images/nurture-growth.webp') no-repeat fixed top / cover;
     height: 20vh;
     padding: 0;
 }
 
 #parallax2 {
-    background: url('/assets/images/nurture-protect.webp') no-repeat fixed top / cover;
+    background: url('../assets/images/nurture-protect.webp') no-repeat fixed top / cover;
     height: 7.55vh;
     padding: 0;    
 }
 
 #parallax3 {
-    background: url('/assets/images/nurture-growing.webp') no-repeat fixed top / cover;
+    background: url('../assets/images/nurture-growing.webp') no-repeat fixed top / cover;
     height: 20vh;
     padding: 0;     
 }
 
 #parallax4 {
-    background: url('/assets/images/nurture-harvest.webp') no-repeat fixed top / cover;
+    background: url('../assets/images/nurture-harvest.webp') no-repeat fixed top / cover;
     height: 7.5vh;
     padding: 0;   
 }
@@ -382,7 +382,7 @@ transform: rotate(-405deg);
 }
 
 #about-image-bg {
-    background: url('/assets/images/matthew-shepherd.webp') no-repeat center center;
+    background: url('../assets/images/matthew-shepherd.webp') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
