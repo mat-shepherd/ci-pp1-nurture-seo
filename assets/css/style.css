@@ -414,6 +414,7 @@ transform: rotate(-405deg);
     position: relative;
     top: 12px;
     margin-right: 12px;
+    filter: drop-shadow(5px 5px 5px #333);
 }
 
 .form-container {
@@ -516,6 +517,10 @@ footer li a:hover {
 
 #footer-bottom .social-icon {
     margin-right: 1.5em;
+}
+
+#footer-bottom .social-icon img {
+    filter: drop-shadow(5px 5px 5px #000);
 }
 
 /* End Footer Section */
