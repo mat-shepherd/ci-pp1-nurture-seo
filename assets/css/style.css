@@ -285,7 +285,8 @@ transform: rotate(-405deg);
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
-    row-gap: 25px;
+    row-gap: 1.5em;
+    column-gap: 0.75em;
 }
 
 /* End Client Logos Section*/
@@ -319,6 +320,13 @@ transform: rotate(-405deg);
 /* End Parallax Sections */
 
 /* Services Section*/
+
+#services {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 .service-container {
     display:flex;
@@ -557,7 +565,7 @@ section, #footer-top {
 }
 
 #services {
-    flex-wrap: wrap;
+    column-gap: 1.5em;
     row-gap: 3.5em;
 }
 
