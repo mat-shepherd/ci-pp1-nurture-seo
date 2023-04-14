@@ -330,6 +330,7 @@ transform: rotate(-405deg);
     flex: 0 0 280px;
     align-items: center;
     border: 1px solid lightgray;
+    align-self: stretch; /* Force service containers to maintain equal height*/
 }
 
 .service-container p {
