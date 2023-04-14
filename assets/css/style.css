@@ -371,12 +371,9 @@ transform: rotate(-405deg);
     padding: 0 1em;
 }
 
-#testimonial-name {
+#testimonial-name, #testimonial-company {
     display: block;
-}
-
-#testimonial-company {
-    display: block;
+    font-weight: bold;
 }
 
 /* End Testimonials Section*/
