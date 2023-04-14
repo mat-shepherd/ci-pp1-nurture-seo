@@ -730,6 +730,15 @@ header, section {
     padding: 0em 10em 3.5em 10em;
 }
 
+#services {
+    padding: 3.5em 25em; /* Reduce available width to stop service containers growing too wide */
+    flex-wrap: nowrap;    
+}
+
+.service-container {
+    flex: 1 0 280px;
+}
+
 h1 {
     font-size: 3em;
 }
