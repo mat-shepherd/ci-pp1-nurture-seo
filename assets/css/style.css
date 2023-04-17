@@ -592,7 +592,7 @@ footer {
 /*  Tablet - Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths */
 
 #hero-text-container, #hero > div, #about-container, #about-image-outer, #logo-tagline, #footer-links {
-    flex: 1 1 40%;
+    flex: 1 0 40%;
     margin: auto;
 }
 
