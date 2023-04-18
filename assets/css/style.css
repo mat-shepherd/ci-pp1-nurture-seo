@@ -466,16 +466,18 @@ transform: rotate(-405deg);
     width: 100%;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
-    border-radius: 25px; 
+    border-radius: 15px; 
+    padding: 0 0.5em;    
 }
 
 .form-container .textarea-field {
     color: black;
-    height: 25px;
+    height: 10em;
     width: 100%;
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
-    border-radius: 25px; 
+    border-radius: 15px;
+    padding: 0.5em 0.5em;
 }
 
 /* End Contact Section */
