@@ -544,12 +544,12 @@ footer li a:hover {
     border-top: 1px solid #fff;
 }
 
-#footer-links {
+#footer-nav, #footer-links {
     display: flex;
     flex-direction: column;
 }
 
-#footer-connect, {
+#footer-connect {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
