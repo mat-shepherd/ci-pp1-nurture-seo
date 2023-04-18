@@ -111,11 +111,20 @@ a.cta-btn:hover {
 footer .cta-btn, nav .cta-btn {
     display:inline-block;
     border-radius: 50px;
-    background-color: #b50100;
-    color: #fff;
     padding: 10px 22px;
     margin: 1em 0;
     text-decoration: none;
+}
+
+nav .cta-btn  {
+    background-color: #b50100;
+    color: #fff;
+}
+
+footer .cta-btn {
+    background-color: #fff;    
+    color: #005c10;
+    font-weight: bold;
 }
 
 nav a.cta-btn:hover {
@@ -126,7 +135,6 @@ nav a.cta-btn:hover {
 
 footer a.cta-btn:hover {
     text-decoration: none;
-    color: #fff;
     box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24),0 17px 50px 0 rgba(255, 255, 255, 0); /* Sourced from https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_shadow*/
 } 
 
@@ -511,11 +519,18 @@ footer li a:hover {
     padding: 0 0 1.5em 0;
 }
 
+#footer-links {
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+    justify-content: space-between;    
+}
+
 #footer-top .cta-btn {
     margin-bottom: 1.5em;
 }
 
-#logo-tagline, #footer-bottom {
+#logo-tagline, #footer-bottom, #footer-connect {
     color: #fff;
 }
 
@@ -523,9 +538,22 @@ footer li a:hover {
     margin-bottom: 1.5em;
 }
 
-#footer-links {
+#footer-links{
     padding: 1.5em 0 0 0;
     border-top: 1px solid #fff;
+}
+
+#footer-connect {
+    padding: 1.5em 0;
+}
+
+#footer-connect h3 {
+    font-weight: normal;
+}
+
+#footer-connect .social-link a:link, #footer-connect .social-link a:visited, #footer-connect .social-link a:active {
+    color: #fff;
+    text-decoration: none;
 }
 
 #footer-bottom {
@@ -595,7 +623,7 @@ footer {
     border-bottom: none;
 }
 
-#client-logos-container, #footer-links {
+#client-logos-container, #footer-links, #footer-connect {
     border-top: none;
 }
 
@@ -765,7 +793,7 @@ header {
 }
 
 .service-container {
-    flex: 1 0 280px;
+    flex: 1 0 320px;
 }
 
 h1 {
