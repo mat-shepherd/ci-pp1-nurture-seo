@@ -90,7 +90,7 @@ section[id^="parallax"] {
 .cta-btn {
     display:inline-block;
     border-radius: 50px;
-    background-color: #005c10;
+    background-color: #1b5e20 ;
     color: #fff;
     padding: 10px 22px;
     margin: 1em 0;
@@ -346,18 +346,18 @@ transform: rotate(-405deg);
 
 #service1 {
     background: rgb(255,255,255);
-    background: linear-gradient(360deg, rgba(255,255,255,1) 80%, rgba(76,175,80,1) 100%);
+    background: linear-gradient(360deg, rgba(255,255,255,1) 92%, rgba(27, 94, 32, 1) 100%);
 }
 
 #service2 {
     margin: 20px 0;
     background: rgb(255,255,255);
-    background: linear-gradient(360deg, rgba(255,255,255,1) 80%, rgba(255,193,7,1) 100%);
+    background: linear-gradient(360deg, rgba(255,255,255,1) 92%, rgba(255,193,7,1) 100%);
 }
 
 #service3 {
     background: rgb(255,255,255);
-    background: linear-gradient(360deg, rgba(255,255,255,1) 80%, rgba(33,150,243,1) 100%);
+    background: linear-gradient(360deg, rgba(255,255,255,1) 92%, rgba(33,150,243,1) 100%);
 }
 
 /* End Services Section*/
