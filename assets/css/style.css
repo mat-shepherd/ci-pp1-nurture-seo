@@ -77,6 +77,13 @@ header {
     height: 82px;   
 }
 
+#header-inner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
 section, footer { 
     flex-direction: column;
     justify-content: center;    
@@ -127,7 +134,6 @@ footer a.cta-btn:hover {
     color: #fff;
     box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24),0 17px 50px 0 rgba(255, 255, 255, 0); /* Sourced from https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_shadow*/
 } 
-}
 
 /* Navigation Menu - Adapted from https://codepen.io/alvarotrigo/pen/MWEJEWG */
 
