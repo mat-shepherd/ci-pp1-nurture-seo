@@ -68,7 +68,7 @@ header, section, footer {
 
 header {
     flex-direction: row;
-    padding: 1.5em;
+    padding: 0.5em 1.5em;
     justify-content: space-between;
     align-items: center;
     height: 82px;   
@@ -577,7 +577,11 @@ section, #footer-top {
     align-items: flex-start;
 }
 
-header, section {
+header {
+    padding: 0;
+}
+
+section {
     padding: 3.5em 0;
 }
 
@@ -671,7 +675,11 @@ footer {
 
 @media only screen and (min-width: 768px) {
 
-header, section {
+header {
+    padding: 0;
+}
+
+section {
     padding: 3.5em 0;
 }
 
@@ -696,6 +704,10 @@ h2 {
 @media only screen and (min-width: 1024px) {
 
 /* Navigation Menu  */
+
+header {
+    padding: 3.5em 0;
+}
 
 .menu-items {
     display: flex;
