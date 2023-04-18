@@ -77,13 +77,6 @@ header {
     height: 82px;   
 }
 
-#header-inner {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 100%;
-}
-
 section, footer { 
     flex-direction: column;
     justify-content: center;    
