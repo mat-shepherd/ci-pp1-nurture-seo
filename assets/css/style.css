@@ -390,8 +390,9 @@ transform: rotate(-405deg);
 }
 
 #about-image-container {
-    width: 280px;
-    height: 280px;
+    background: url('../images/matthew-shepherd-140.webp') no-repeat center center;    
+    width: 140px;
+    height: 140px;
     border-style: solid;
     border-color: #ccc;
     border-width: 1px;
@@ -400,9 +401,9 @@ transform: rotate(-405deg);
 }
 
 #about-image-bg {
-    background: url('../images/matthew-shepherd.webp') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+    background-size: contain;
 }
 
 /* End About Section */
@@ -661,6 +662,17 @@ footer {
 #about-container, #about-image-outer {
     width: 40%;
 }
+
+#about-image-container {
+    background: url('../images/matthew-shepherd.webp') no-repeat center center;    
+    width: 280px;
+    height: 280px;
+}
+
+#about-image-bg {
+    background-size: auto;
+}
+
 /* Tablet - End About Section */
 
 /* Tablet - Footer Section */
