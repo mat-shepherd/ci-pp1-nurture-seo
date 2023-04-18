@@ -426,12 +426,13 @@ transform: rotate(-405deg);
 .social-link {
     display: inline-block;
     min-width: 250px;
-    text-align: left;    
+    text-align: left;
 }
 
 .social-link a:link, .social-link a:visited, .social-link a:active {
     color: #333;
     text-decoration: none;
+    margin-right: 1em;
 }
 
 .social-link img {
@@ -523,7 +524,8 @@ footer li a:hover {
     display: flex;
     flex-direction: column;
     align-self: stretch;
-    justify-content: space-between;    
+    justify-content: space-between;
+    padding: 1.5em 0 0 0;
 }
 
 #footer-top .cta-btn {
@@ -538,9 +540,15 @@ footer li a:hover {
     margin-bottom: 1.5em;
 }
 
-#footer-links{
-    padding: 1.5em 0 0 0;
+#footer-links, #footer-connect {
     border-top: 1px solid #fff;
+}
+
+#social-block {
+    width: 30%;
+    min-width: 280px;
+    text-align: left;
+    margin: auto;
 }
 
 #footer-connect {
