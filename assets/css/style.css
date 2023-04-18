@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 header, section, footer {
-    width: 100%;
+    width: 85%;
     margin: auto;
     padding: 0;
     display: flex;
@@ -538,6 +538,13 @@ footer li a:hover {
 @media only screen and (min-width: 600px) {
 
 /* Tablet - General Layout */
+
+header, section:not([id*="parallax"]) {
+    width: 85%;
+    margin: auto;
+    text-align: center;
+}
+
 section[id^="parallax"] {
     display: flex;
     flex-direction: column;
@@ -562,7 +569,7 @@ section, #footer-top {
 }
 
 header, section {
-    padding: 3.5em 5em;
+    padding: 3.5em 0;
 }
 
 footer {
@@ -622,7 +629,7 @@ footer {
 /* Tablet - Client Logos & Testimonial Single Column Section Widths */
 
 #client-logos-inner, .testimonials-container {
-    width: 80%;
+    width: 100%;
 }
 /* Tablet - End Client Logos & Testimonial Single Column Section Widths */
 
@@ -652,12 +659,12 @@ footer {
 @media only screen and (min-width: 768px) {
 
 header, section {
-    padding: 3.5em 7.5em;
+    padding: 3.5em 0;
 }
 
 
 #client-logos-container {
-    padding: 0em 10em 3.5em 10em;
+    padding-bottom: 3.5em;
 }
 
 /* Fonts */
@@ -709,10 +716,6 @@ h2 {
 }
 
 /* End Navigation Menu  */
-
-header, section {
-    padding: 3.5em 10em;
-}
 
 #client-logos-container {
     padding: 0em 10em 3.5em 10em;
