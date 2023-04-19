@@ -720,12 +720,12 @@ footer {
 }
 
 .form-container {
-    flex: 1 0 280px;
+    flex: 0.75 0 280px;
     padding: 2em;
 }
 
 #connect-container {
-    flex: 1 1 40%;
+    flex: 1 1 50%;
     text-align: center;
 }
 
@@ -795,7 +795,7 @@ section {
 }
 
 #connect-container {
-    padding-bottom: 0;
+    padding-bottom: 3.5em;
 }
 
 #links-right-block {
@@ -905,6 +905,10 @@ header {
 
 #footer-connect {
     justify-content: flex-end;
+}
+
+#connect-container {
+    padding-bottom: 0em;
 }
 
 #connect-left-block, #connect-middle-block {
