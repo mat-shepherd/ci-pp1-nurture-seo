@@ -596,7 +596,7 @@ footer li a:hover {
 }
 
 #connect-right-block {
-    min-width: 320px;
+    min-width: 340px;
 }
 
 #footer-connect h3 {
@@ -609,7 +609,7 @@ footer li a:hover {
 }
 
 #footer-bottom {
-    width: 100%;
+    width: 85%;
     padding: 1.5em 0 0 0;
     border-top: 1px solid #fff;
 }
@@ -801,6 +801,10 @@ section {
 #links-right-block {
     min-width: 430px;
 }
+
+#footer-bottom {
+    width: 100%;
+}    
 
 /* Fonts */
 h1 {
