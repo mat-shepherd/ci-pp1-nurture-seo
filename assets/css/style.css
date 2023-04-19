@@ -426,6 +426,11 @@ transform: rotate(-405deg);
     padding-bottom: 1.5em;
 }
 
+#connect-container iframe {
+    width: 90%; /* Override width of Google map iframe and make responsive */
+}
+
+
 .social-link {
     display: inline-block;
     min-width: 250px;
@@ -645,7 +650,7 @@ section {
     column-gap: 3.5em;
 }
 
-#contact, #about {
+#about {
     column-gap: 1.5em;
 }
 
@@ -660,6 +665,14 @@ header {
 
 section {
     padding: 3.5em 0;
+}
+
+#connect-container {
+    padding-bottom: 3.5em;
+}
+
+#connect-container iframe {
+    height: 500px;
 }
 
 footer {
@@ -697,6 +710,7 @@ footer {
     flex-direction: row-reverse;
     justify-content: center;
     align-items: flex-start;
+    flex-wrap: wrap;
 }
 
 #connect-container, .form-container {
@@ -780,11 +794,13 @@ section {
     column-gap: 3.5em;
 }
 
+#connect-container {
+    padding-bottom: 0;
+}
 
 #links-right-block {
     min-width: 430px;
 }
-
 
 /* Fonts */
 h1 {
