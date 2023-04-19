@@ -752,7 +752,7 @@ footer {
 }
 
 #links-left-block {
-    flex: 1 1 33.33%;
+    flex: 0;
 }
 
 
@@ -863,6 +863,10 @@ header {
 #footer-links, #footer-connect {
     flex-wrap: nowrap;
     padding-bottom: 1em;
+}
+
+#links-left-block {
+    flex: 1 1 33.33%;
 }
 
 #links-right-block {
