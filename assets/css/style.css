@@ -645,6 +645,10 @@ section {
     column-gap: 3.5em;
 }
 
+#about {
+    column-gap: 1.5em;
+}
+
 #services {
     column-gap: 2.5em;
     row-gap: 3.5em;
@@ -768,9 +772,12 @@ section {
     padding: 3.5em 0;
 }
 
-
 #client-logos-container {
     padding-bottom: 3.5em;
+}
+
+#about {
+    column-gap: 3.5em;
 }
 
 #links-right-block {
