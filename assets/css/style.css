@@ -561,8 +561,11 @@ footer li a:hover {
 }
 
 #footer-links {
-    padding: 1.5em 0;
     text-align: right;
+}
+
+#footer-links, #connect-left-block {
+    padding-top: 1.5em;
 }
 
 #connect-left-block, #connect-right-block {
