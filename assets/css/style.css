@@ -547,7 +547,6 @@ footer li a:hover {
 #footer-top {
     display: flex;
     flex-direction: row;    
-    width: 85%;
     padding: 0 0 1.5em 0;
     flex-wrap: wrap;
     column-gap: 3.5em;
@@ -610,7 +609,8 @@ footer li a:hover {
 }
 
 #footer-bottom {
-    width: 85%;
+    min-width: 340px;
+    width: 100%;
     padding: 1.5em 0 0 0;
     border-top: 1px solid #fff;
 }
@@ -679,6 +679,7 @@ section {
 footer {
     padding: 3.5em 0 1.5em 0;
 }
+
 
 #hero {
     border-bottom: none;
@@ -761,6 +762,10 @@ footer {
 /* Tablet - End About Section */
 
 /* Tablet - Footer Section */
+#footer-top {
+    width: 85%;
+}
+
 #footer-links li {
     display: inline;
     margin-right: 20px;
