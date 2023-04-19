@@ -1,6 +1,9 @@
-/* Mobile Styles */
+/* ==========================================================================
+   Mobile Styles
+   ========================================================================== */
 
-/* Fonts */ 
+/* Fonts
+   ========================================================================== */
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
 
 
@@ -25,7 +28,9 @@ h2 {
     font-size: 1.25em;   
 }
 
-/* Reset */
+/* Reset
+   ========================================================================== */
+
 * {
     margin: 0;
     padding: 0;
@@ -33,7 +38,9 @@ h2 {
     box-sizing: border-box;
 }
 
-/* General Layout */
+/* General Layout
+   ========================================================================== */
+
 html, body { 
     height: 100%;
 }
@@ -91,7 +98,9 @@ hr {
     border: 1px solid lightgrey;
 }
 
-/* Buttons */
+/* Buttons
+   ========================================================================== */
+
 .cta-btn {
     display:inline-block;
     border-radius: 50px;
@@ -141,7 +150,8 @@ footer a.cta-btn:hover {
     box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24),0 17px 50px 0 rgba(255, 255, 255, 0); /* Sourced from https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_shadow*/
 } 
 
-/* Navigation Menu - Adapted from https://codepen.io/alvarotrigo/pen/MWEJEWG */
+/* Navigation Menu - Adapted from https://codepen.io/alvarotrigo/pen/MWEJEWG 
+   ========================================================================== */
 
 nav {
     height: auto;
@@ -281,18 +291,17 @@ transform: rotate(-405deg);
     overflow: hidden;
 }
 
-/* End Navigation Menu */
 
-/* Hero Section */
+/* Hero Section
+   ========================================================================== */
 
 #hero-text-container {
     width: 280px;
     padding-bottom: 1.5em;
 }
 
-/* End Hero Section */
-
-/* Client Logos Section*/
+/* Client Logos Section
+   ========================================================================== */
 
 #client-logos-inner {
     width: 280px;
@@ -307,9 +316,8 @@ transform: rotate(-405deg);
     column-gap: 0.75em;
 }
 
-/* End Client Logos Section*/
-
-/* Parallax Sections */
+/* Parallax Sections
+   ========================================================================== */
 
 #parallax1 {
     background: url('../images/nurture-growth.webp') no-repeat fixed top / cover;
@@ -323,9 +331,8 @@ transform: rotate(-405deg);
     padding: 0;   
 }
 
-/* End Parallax Sections */
-
-/* Services Section*/
+/* Services Sections
+   ========================================================================== */
 
 #services {
     display:flex;
@@ -372,10 +379,8 @@ transform: rotate(-405deg);
     background: linear-gradient(360deg, rgba(255,255,255,1) 92%, rgba(33,150,243,1) 100%);
 }
 
-/* End Services Section*/
-
-/* Testimonials Section*/
-
+/* Testimonials Section
+   ========================================================================== */
 
 .testimonials-container {
     width: 280px;
@@ -391,9 +396,8 @@ transform: rotate(-405deg);
     font-weight: bold;
 }
 
-/* End Testimonials Section*/
-
-/* About Section */
+/* About Section
+   ========================================================================== */
 
 #about-container {
     width: 280px;
@@ -417,9 +421,8 @@ transform: rotate(-405deg);
     background-size: contain;
 }
 
-/* End About Section */
-
-/* Contact Section */
+/* Contact Section
+   ========================================================================== */
 
 #connect-container {
     min-width: 280px;
@@ -501,9 +504,8 @@ transform: rotate(-405deg);
     padding: 0.5em 0.5em;
 }
 
-/* End Contact Section */
-
-/* Footer Section */
+/* Footer Section
+   ========================================================================== */
 
 footer {
     background: #005c10;
@@ -623,13 +625,14 @@ footer li a:hover {
     filter: drop-shadow(5px 5px 5px #000);
 }
 
-/* End Footer Section */
-
-/* Tablet Portrait Styles */
+/* ==========================================================================
+   Tablet Portrait Styles
+   ========================================================================== */
 
 @media only screen and (min-width: 600px) {
 
-/* Tablet - General Layout */
+/* Tablet - General Layout
+   ========================================================================== */
 
 header, section:not([id*="parallax"]) {
     width: 85%;
@@ -693,7 +696,8 @@ footer {
     display: none;
 }
 
-/*  Tablet - Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths */
+/* Tablet - Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths
+   ========================================================================== */
 
 #hero-text-container, #hero > div, #about-container, #about-image-outer {
     flex: 1 0 40%;
@@ -731,20 +735,21 @@ footer {
     text-align: center;
 }
 
-/* Tablet - Client Logos & Testimonial Single Column Section Widths */
+/* Tablet - Client Logos & Testimonial Single Column Section Widths
+   ========================================================================== */
 
 #client-logos-inner, .testimonials-container {
     width: 100%;
 }
-/* Tablet - End Client Logos & Testimonial Single Column Section Widths */
 
-/* Tablet - Service Section */
+/* Tablet - Service Section
+   ========================================================================== */
 #service2 {
     margin: 0;
 }
-/* Tablet - End Service Section */
 
-/* Tablet - About Section */
+/* Tablet - About Section 
+   ========================================================================== */
 #about-container, #about-image-outer {
     width: 40%;
 }
@@ -759,9 +764,8 @@ footer {
     background-size: auto;
 }
 
-/* Tablet - End About Section */
-
-/* Tablet - Footer Section */
+/* Tablet - Footer Section 
+   ========================================================================== */
 #footer-top {
     width: 85%;
 }
@@ -775,12 +779,11 @@ footer {
     flex: 0;
 }
 
-
-/* Tablet - End Footer Section */
-
 }
 
-/* Small Screens and Laptop Styles */
+/* ==========================================================================
+   Small Screens and Laptop Styles
+   ========================================================================== */
 
 @media only screen and (min-width: 768px) {
 
@@ -812,7 +815,8 @@ section {
     width: 100%;
 }    
 
-/* Fonts */
+/* Small Screens and Laptop Styles - Fonts
+   ========================================================================== */
 h1 {
     font-size: 1.75em;
 }
@@ -823,11 +827,14 @@ h2 {
     
 }
 
-/* Desktop and Landscape Tablet Styles */
+/* ==========================================================================
+   Desktop and Landscape Tablet Styles
+   ========================================================================== */
 
 @media only screen and (min-width: 1024px) {
 
-/* Navigation Menu  */
+/* Desktop and Landscape Tablet Styles - Navigation Menu
+   ========================================================================== */
 
 header {
     padding: 3.5em 0;
@@ -864,7 +871,8 @@ header {
     background-color: transparent;
 }
 
-/* End Navigation Menu  */
+/* Desktop and Landscape Tablet Styles - Section Styles
+   ========================================================================== */
 
 #client-logos-container {
     padding: 0em 10em 3.5em 10em;
@@ -933,6 +941,9 @@ header {
 #connect-middle-block, #connect-right-block {
     text-align: left;
 }
+
+/* Desktop and Landscape Tablet Styles - Fonts
+   ========================================================================== */
 
 h1 {
     font-size: 3em;
