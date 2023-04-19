@@ -711,8 +711,8 @@ footer {
 }
 
 #connect-container {
-    flex: 2 2 40%;
-    padding: 2.5em;
+    flex: 1 1 40%;
+    text-align: center;
 }
 
 /* Tablet - Client Logos & Testimonial Single Column Section Widths */
