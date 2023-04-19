@@ -1,5 +1,9 @@
 /* Mobile Styles */
 
+/* Fonts */ 
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
+
+
 html, body { 
     font-family: "Noto Serif", sans-serif;
     font-weight: 300;
