@@ -565,13 +565,18 @@ footer li a:hover {
     text-align: right;
 }
 
-#links-left-block, #connect-left-block, #connect-right-block {
+#connect-left-block, #connect-right-block {
     flex: 1 1 33.33%;
 }
 
+#links-left-block {
+    flex: 0;
+}
+
 #links-right-block {
-    min-width: 300px;
-    flex: 1 1 66.67%;    
+    min-width: 280px;
+    flex: 1 1 66.67%;
+    text-align: center;    
 }
 
 #connect-left-block, #connect-right-block {
@@ -582,12 +587,8 @@ footer li a:hover {
     flex: 0;
 }
 
-#connect-left-block {
-    padding-top: 1em;
-}
-
 #connect-right-block {
-    min-width: 300px;
+    min-width: 280px;
 }
 
 #footer-connect h3 {
@@ -742,6 +743,12 @@ footer {
     display: inline;
     margin-right: 20px;
 }
+
+#links-left-block {
+    flex: 1 1 33.33%;
+}
+
+
 /* Tablet - End Footer Section */
 
 }
@@ -761,6 +768,10 @@ section {
 
 #client-logos-container {
     padding-bottom: 3.5em;
+}
+
+#links-right-block {
+    min-width: 430px;
 }
 
 
@@ -835,13 +846,25 @@ header {
     flex-wrap: nowrap;
 }
 
+#footer-nav {
+    row-gap: 40%;
+}
+
 #footer-links, #footer-connect {
     flex-wrap: nowrap;
     padding-bottom: 1em;
 }
 
+#links-right-block {
+    text-align: right;    
+}
+
 #connect-middle-block {
     flex: 1 1 33.33%;
+}
+
+#connect-left-block {
+    padding: 0.5em 0 0 5em;
 }
 
 #connect-right-block {
