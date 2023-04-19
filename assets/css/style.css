@@ -435,6 +435,7 @@ transform: rotate(-405deg);
     display: inline-block;
     min-width: 250px;
     text-align: left;
+    line-height: 48px;
 }
 
 .social-link a:link, .social-link a:visited, .social-link a:active {
