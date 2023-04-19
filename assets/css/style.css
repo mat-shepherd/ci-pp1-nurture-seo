@@ -556,7 +556,7 @@ footer li a:hover {
 #footer-links, #footer-connect {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -564,7 +564,7 @@ footer li a:hover {
     text-align: right;
 }
 
-#footer-links, #connect-left-block {
+#footer-links, #connect-middle-block {
     padding-top: 1.5em;
 }
 
@@ -582,11 +582,11 @@ footer li a:hover {
     text-align: center;    
 }
 
-#connect-left-block, #connect-right-block {
+#connect-middle-block, #connect-right-block {
     text-align: center;
 }
 
-#connect-middle-block {
+#connect-left-block {
     flex: 0;
 }
 
@@ -780,6 +780,7 @@ section {
     column-gap: 3.5em;
 }
 
+
 #links-right-block {
     min-width: 430px;
 }
@@ -854,6 +855,7 @@ header {
 
 #footer-top {
     flex-wrap: nowrap;
+    justify-content: space-between;    
 }
 
 #footer-nav {
@@ -865,6 +867,14 @@ header {
     padding-bottom: 1em;
 }
 
+#logo-tagline {
+    flex: 0 1 30%;
+}
+
+#footer-nav {
+    flex: 0 1 70%;    
+}
+
 #links-left-block {
     flex: 1 1 33.33%;
 }
@@ -873,12 +883,16 @@ header {
     text-align: right;    
 }
 
-#connect-middle-block {
-    flex: 1 1 33.33%;
+#footer-connect {
+    justify-content: flex-end;
 }
 
-#connect-left-block {
-    padding: 0.5em 0 0 5em;
+#connect-left-block, #connect-middle-block {
+    flex: 1 1 40%;
+}
+
+#connect-middle-block {
+    padding: 0.5em 1.5em 0 0;
 }
 
 #connect-right-block {
