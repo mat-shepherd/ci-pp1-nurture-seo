@@ -422,7 +422,7 @@ transform: rotate(-405deg);
 /* Contact Section */
 
 #connect-container {
-    width: 280px;
+    min-width: 280px;
     padding-bottom: 1.5em;
 }
 
@@ -452,7 +452,7 @@ transform: rotate(-405deg);
     border-radius: 25px;
     padding: 2em 1.5em;
     margin-top: 1.5em;    
-    width: 280px;
+    min-width: 280px;
     flex: 1 1 440px;
     justify-content: space-between;
     align-items: center;    
@@ -645,7 +645,7 @@ section {
     column-gap: 3.5em;
 }
 
-#about {
+#contact, #about {
     column-gap: 1.5em;
 }
 
@@ -776,7 +776,7 @@ section {
     padding-bottom: 3.5em;
 }
 
-#about {
+#contact, #about {
     column-gap: 3.5em;
 }
 
