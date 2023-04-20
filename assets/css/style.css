@@ -387,7 +387,8 @@ transform: rotate(-405deg);
 }
 
 .testimonials-container blockquote {
-    margin: 32px 0;
+    width: 75%;
+    margin: 32px auto;
     padding: 0 1em;
 }
 
