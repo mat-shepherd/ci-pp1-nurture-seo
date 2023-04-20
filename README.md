@@ -105,7 +105,7 @@ Secondary Colours - Yellow / Blue
 To remain WCAG AAA accessible I chose dark colour variants for background colours behind white text to mantain maximum contrast.
 <br>
 
-![Colour scheme]()
+![Colour scheme](docs/features/colour-palette.webp)
 
 
 ### Fonts
