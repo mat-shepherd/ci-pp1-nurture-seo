@@ -387,7 +387,7 @@ transform: rotate(-405deg);
 }
 
 .testimonials-container blockquote {
-    width: 75%;
+    width: 100%;
     margin: 32px auto;
     padding: 0 1em;
 }
@@ -821,6 +821,10 @@ section {
 
 #client-logos-container, #footer-links, #footer-connect {
     border-top: none;
+}
+
+.testimonials-container blockquote {
+    width: 75%;
 }
 
 #footer-links li {
