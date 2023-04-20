@@ -59,7 +59,7 @@ The goals of this website include:
 - Marketing managers of medium to large-sized businesses in the UK, Ireland and North America
 - Sales managers of medium to large-sized businesses in the UK, Ireland and North America
 
-### User Requrements and Expectations
+### User Requirements and Expectations
 - 
 
 
