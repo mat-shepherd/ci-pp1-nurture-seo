@@ -38,21 +38,29 @@
 11. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
+The goals of this website include:
 
+### Business Goals
+- Increase brand awareness
+- Convey the expertise, capabilities, and track record of the consultant to build trust in the brand
+- Increase qualified leads for the consultant’s services
+- Build an SEO-optimised website with a great user experience to increase our search engine visibility and showcase the quality of the consultant’s work
 
 ### User Goals
-
-
-### Site Owner Goals
-
+- Find a consultant that provides SEO services that align with their business goals and budget
+- Understand the services provided by the consultant
+- Find proof of work that the consultant can deliver the results desired
+- Contact the consultant to request more details on the services provided and request a proposal
 
 ## User Experience
 
 ### Target Audience
-
+- Medium to large-sized business owners in the UK, Ireland and North America
+- Marketing managers of medium to large-sized businesses in the UK, Ireland and North America
+- Sales managers of medium to large-sized businesses in the UK, Ireland and North America
 
 ### User Requrements and Expectations
-
+- 
 
 
 ### User Stories
