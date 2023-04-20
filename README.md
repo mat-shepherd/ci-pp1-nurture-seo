@@ -60,31 +60,35 @@ The goals of this website include:
 - Sales managers of medium to large-sized businesses in the UK, Ireland and North America
 
 ### User Requirements and Expectations
-- 
-
+- An intuitive and easy to locate navigation system regardless of screen size
+- Ability to quickly find relevant information on the business and its services
+- Quick and easy ways to contact the business
+- A visually appealing and instuitively structured website that works well and is easy to read on all screen sizes
+- Informative and relevant content that is easy to locate and read
+- A website that loads quickly on all devices and connections
+- A website that is accessible to all users 
 
 ### User Stories
+I have divided my user stories into prospective customers, existing customers, and site owners, as each of these users will have a distinct set of needs and goals.
 
-#### First-time User 
-1. 
-2. 
-3. 
-4. 
+#### Prospective Customers
+1. As a prospective customer, I want to see a list of the services offered by the consultant so that I can understand if the consultant can provide the solution my business is seeking.
+2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
+3. As a prospective customer, I want to see details of the pricing or price range of the services so that I can understand if the consultant’s services fit within my allocated budget and are likely to provide return on investment.
+4. As a prospective customer, I want to see details of the consultant’s experience, past customers, and examples of their work or results so that I can feel confident the consultant can deliver the results my business expects.
+5. As a prospective customer, I want to see details of the consultant’s work experience and expertise to understand if they have the expertise required to handle my project.
+6. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
+7. As a prospective customer, I want to locate the consultant’s contact details so I can see where they are located and phone or email them about my project and any questions I may have.
+8. As a prospective customer, I want to locate the consultant’s social media details so I can see if they are thought leaders in the space, learn from their content, and see what other social media users say about them.
 
-#### Returning User
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
+
+#### Existing Customers
+9. As an existing customer, I want to locate the consultant’s contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
+10. As an existing customer, I want to locate the consultant’s social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site’s performance.
 
 #### Site Owner 
-13. 
-14. 
-15. 
+13. As a site owner, I want to be able to quickly update the service and testimonial sections of the site so I can showcase our newest services and most recent reviews to help convert more prospective customers.
+14. As a site owner, I want to be able to receive timely notifications of forms submitted through the website so I can quickly respond to prospective and existing customers.
 
 ## Design
 
