@@ -84,7 +84,7 @@ section {
     justify-content: center;    
 }
 
-section[id^="parallax"] {
+div[id^="parallax"] {
     display:none;
 }
 
@@ -640,7 +640,7 @@ header, section:not([id*="parallax"]) {
     text-align: center;
 }
 
-section[id^="parallax"] {
+div[id^="parallax"] {
     display: flex;
     flex-direction: column;
     justify-content: center;
