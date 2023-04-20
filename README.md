@@ -1,7 +1,7 @@
 # Nurture SEO
 (Developer: Matthew Shepherd)
 
-![Mockup image]()
+![Mockup image](docs/responsive-device-screenshots.webp)
 
 [Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
