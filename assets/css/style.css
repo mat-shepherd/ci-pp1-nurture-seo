@@ -775,6 +775,10 @@ footer {
     width: 85%;
 }
 
+#connect-right-block {
+    padding-top: 1.5em;
+}
+
 #links-left-block {
     flex: 0;
 }
