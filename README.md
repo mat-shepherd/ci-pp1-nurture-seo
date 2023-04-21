@@ -210,6 +210,7 @@ The website consists of two pages in total, an index page and 404 page. The inde
 ![Services Section](docs/features/services-section.webp)
 
 ### Client Testimonials
+- to provide details of testimonials provided by the consultant's clients to increase trust in the consultant's experience and results of services provided. This includes the client's logo, business name, testimonial, and client's name. 
 
 ![Client Testimonials](docs/features/client-testimonials-section.webp)
 
