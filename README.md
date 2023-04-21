@@ -183,7 +183,11 @@ The website consists of two pages in total, an index page and 404 page. The inde
 ### Logo and Navigation Bar
 - containing the business logo, a responsive navigation menu and call to action button
 
-![Logo and navbar]()
+#### Desktop & Larger Screens
+![Logo and navbar](docs/features/logo-nav-responsive.webp)
+
+#### Tablet, Mobile and Smaller Screens
+![Logo and navbar](<docs/features/logo-nav-responsive.webp)
 
 ### Hero Section
 - containing a concise description and image to convey the the business's purpose and value proposition and call to action button
