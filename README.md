@@ -440,8 +440,8 @@ The website was tested on the following browsers:
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| | |
-| | |
+| Mobile hamburger menu icon had a small tap target and was difficult to select to open the menu. | The height of the menu button div was set to 100% which was leading to a height of 0px. Setting this to a fixed height of 30px corerccted the issue.|
+| Service containers were different heights which was determined by the amount of content they contained and the width of their parent elements as they flexed across different viewport sizes. | This was corrected by setting the align-self property to stretch for the service-containers class. |
 | | |
 | | |
 
