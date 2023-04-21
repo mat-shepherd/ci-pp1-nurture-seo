@@ -80,7 +80,6 @@ I have divided my user stories into prospective customers, existing customers, a
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
 7. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content, and see what other social media users say about them.
 
-
 #### Existing Customers
 8. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
 9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
@@ -109,7 +108,6 @@ To remain WCAG AAA compliant, I chose dark colour variants for background colour
 <br>
 
 ![Colour scheme](docs/features/colour-palette.webp)
-
 
 ### Fonts
 Oswald and Noto Serif fonts were selected with the help of the [21 Google Fonts Combinations For Websites & Brands](https://www.garett.co/21-google-fonts-combinations-for-websites-brands) article by [Garett Southerton](https://www.garett.co/about). The article noted that these fonts are "...perfect for brands that are sleek, impactful, or need to build trust with their audience."
@@ -152,15 +150,15 @@ For simplicity the site consists of one primary page (plus a 404 page) and conta
 
 ### 404
 <details><summary>iPhone SE</summary>
-<img src="">
+<img src="docs/wireframes/404-iphone-se-wireframe.webp">
 </details>
 
 <details><summary>iPad Mini</summary>
-<img src="">
+<img src="docs/wireframes/404-ipad-mini-wireframe.webp">
 </details>
 
 <details><summary>Desktop</summary>
-<img src="">
+<img src="docs/wireframes/404-desktop-wireframe.webp">
 </details>
 
 
