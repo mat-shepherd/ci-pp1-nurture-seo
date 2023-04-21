@@ -131,15 +131,22 @@ The website consists of...
 - JavaScript
 
 ### Frameworks & Tools
-- Git
-- GitHub
-- CodeAnywhere
-- GIMP
-- Figma
-- Google Fonts
-- Font Awesome
-- Favicon.io
-- Google Maps
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Gitpod - Cloud IDE](https://www.gitpod.io/)
+- [CodeAnywhere - Cloud IDE)(https://codeanywhere.com/)
+- [GIMP - iamge editor](https://www.gimp.org/)
+- [Figma - wireframing tool](https://www.figma.com/files/recent?fuid=1219987136949485526)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Favicon.io - favicon generator](https://favicon.io/)
+- [Google Maps](https://www.google.com/maps)
+- [Placehold - placeholder image generator](https://placehold.co/)
+- [Responsive Image Breakpoints Generator v2.0](https://www.responsivebreakpoints.com/) tool by [Cloudinary](https://cloudinary.com/)
+- [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator)
+- CSS Gradient tool at [cssgradient.io](https://cssgradient.io/)
+- [WebAIM's Contrast Checker tool](https://webaim.org/resources/contrastchecker/)
+
 
 ## Features
 The website consists of...
@@ -516,6 +523,7 @@ In order of appearance:
 - The accessibility bug where the label element used in the mobile menu required text was overcome using the code from [this Stack Overflow answer](https://stackoverflow.com/a/71369523/21643967) by [GrahamTheDev](https://stackoverflow.com/users/2702894/grahamthedev)
 - Flexbox methods used throughout the site were learned from [W3C Schools](https://www.w3schools.com/css/css3_flexbox_container.asp) and the amazing [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by [Chris Coyier at CSS Tricks](https://css-tricks.com/author/chriscoyier/)
 - The method for providing alternate text for background images was adapted from the [Alternate text for background images](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) by [David MacDonald](https://www.davidmacd.com/david_macdonald_bio.html)
+- img srcset methods used to display different images at various breakpoints were learned from the [Responsive images with srcset and sizes](https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948) by [Wouter van der Zee](Wouter van der Zee) and breakpoints were chosen with the help of the [Responsive Image Breakpoints Generator v2.0](https://www.responsivebreakpoints.com/) tool by [Cloudinary](https://cloudinary.com/)
 - The flexbox method to achieve equal height columns for the index page's service containers was learned from the [Same Columns Height](https://flexbox.ninja/demos/same-height-columns/) article by [Geoffrey Crofte at Flexbox Ninja](https://flexbox.ninja/about/) and the [CSS equal height columns](https://daily-dev-tips.com/posts/css-equal-height-columns/) article by [Chris Bongers at Daily Dev Tips](https://daily-dev-tips.com/about/)
 - CSS Gradients in the service containers of the index page were achieved using the code output from the CSS Gradient tool at [cssgradient.io](https://cssgradient.io/)
 - The method to achieve a circular frame around the index page's headshot image was adapated from the [Code Institute's Love Running Project](https://github.com/Code-Institute-Org/love-running-2.0).
