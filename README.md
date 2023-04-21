@@ -115,11 +115,24 @@ Oswald and Noto Serif fonts were selected with the help of the [21 Google Fonts 
 
 Oswald font is used for site headings and Noto Serif for the main body text. Both fonts use a sans serif fallback.
 
+Fonts are imported using the [Google Fonts](https://fonts.google.com/) library.
+
 The logo image uses Nunito Sans Bold as this was the closest complimentary font available in the [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) tool.
 
 ### Structure
-The page is structured...
-The website consists of...
+The page is structured in an easy to navigate z-shaped pattern allowing visitors to quickly consume key information while scanning the page from left to right. Starting at the the top left of the page the visitor will notice the site logo followed by the navigation menu and a Get a Quote call to action button. This allow them to quickly understand the name of the business, how to navigate the site, and how to get in touch with site owner to get a quote.
+
+The site consists of two pages, an index page and 404 page. The index page contains 10 distinct sections:
+- A header section containing the business logo, a responsive navigation menu and call to action button
+- A hero section containing a concise description and image to convey the the business's purpose and value proposition and call to action button
+- A client logos section to showcase the consultant's existing clients and build trust with the visitor
+- A parallax section to provide a visual break in the content that displays imagery related to growth
+- A services section to provide brief descriptions of the services the consultant provides
+- A client testimonials section
+- Another parallax section to provide a further visual break in the content that displays imagery related to growth
+- An About me section to provide details of the consultant's work experience and expertise as well as a headshot image to build trust with the visitor
+- A contact section which provides a contact form to allow the visitor to contact the consultat with question or to request a quote and a Google map displaying the consultant's location
+- A footer section which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owners name and copyright notice, and a linkt ot he site owner's GitHub page.
 
 ### Wireframes
 
