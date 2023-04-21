@@ -95,14 +95,16 @@ I have divided my user stories into prospective customers, existing customers, a
 ### Design Choices
 I researched other digital marketing agency websites to find a bright, clean, and simple layout that fit my desired content and that was also responsive. I based my site design on the layout of [Workhu's](https://workhu.com/) website.
 
+Imagery used on the site was chosen to convey growth and as such are primarily images of nature. The hero iamge was chosen to covney the digital mrketing services provided.
+
 ### Colour
-As the agency focuses on growth through SEO and is called Nurture SEO I chose elemental (earth, water, sun, air) and organic (plants) colours to convey organic growth.
+As the agency focuses on growth through SEO and is called Nurture SEO I chose elemental (earth, water, sun, air) and organic (plants) colours to convey organic growth. Colors were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
 
 Primary Colours - White / Green
 
 Secondary Colours - Yellow / Blue
 
-To remain WCAG AAA accessible I chose dark colour variants for background colours behind white text to mantain maximum contrast.
+To remain WCAG AAA compliant, I chose dark colour variants for background colours behind white text to mantain maximum contrast. Colour contrast compliance was tested using [WebAIM's Contrast Checker tool](https://webaim.org/resources/contrastchecker/). Brighter green, yellow, and blue colours used in gradients in the services containers were pruposefully not placed behind text to avoid poor contrast and accessibility issues.
 <br>
 
 ![Colour scheme](docs/features/colour-palette.webp)
@@ -132,12 +134,12 @@ The website consists of...
 - Git
 - GitHub
 - CodeAnywhere
-- Tinypng
 - GIMP
 - Figma
 - Google Fonts
-- Font Awwsome
-- Favicon<span>.</span>io
+- Font Awesome
+- Favicon.io
+- Google Maps
 
 ## Features
 The website consists of...
@@ -501,7 +503,7 @@ In order of appearance:
     <details><summary>Missile crashed Page not found error 404</summary>
     <img src="docs/credits/istock-1324403502.webp">
     </details>  
-- 
+
 ### Code
 In order of appearance:
 
