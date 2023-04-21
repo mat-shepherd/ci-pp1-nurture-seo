@@ -211,12 +211,12 @@ The website consists of two pages in total, an index page and 404 page. The inde
 
 ### Client Testimonials
 
-!Client Testimonials](docs/features/client-testimonials-section.webp)
+![Client Testimonials](docs/features/client-testimonials-section.webp)
 
 ### Second Parallax Section 
 - to provide a further visual break in the content that displays imagery related to growth
 
-![Second Parallax Section (docs/features/parallax-2.webp)
+![Second Parallax Section](docs/features/parallax-2.webp)
 
 ### About Me 
 - section to provide details of the consultant's work experience and expertise as well as a headshot image to build trust with the visitor
@@ -226,7 +226,7 @@ The website consists of two pages in total, an index page and 404 page. The inde
 ### Contact Form 
 - a contact form to allow the visitor to contact the consultat with questions or to request a quote
 
-![Contact Form ](docs/features/contact-form.webp)
+![Contact Form](docs/features/contact-form.webp)
 
 ### Google map 
 - a Google map displaying the consultant's location allowing the visitor to get the consultant's address, view a map of the location and directions to their location
