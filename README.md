@@ -8,7 +8,7 @@
 ## Table of Content
 
 1. [Project Goals](#project-goals)
-    1. [Business Goals](#business-oals)
+    1. [Business Goals](#business-goals)
     2. [User Goals](#user-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
