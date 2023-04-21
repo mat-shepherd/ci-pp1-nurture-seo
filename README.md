@@ -86,8 +86,10 @@ I have divided my user stories into prospective customers, existing customers, a
 9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
 
 #### Site Owner 
-10. As a site owner, I want to be able to quickly update the service and testimonial sections of the site so I can showcase our newest services and most recent reviews to help convert more prospective customers.
-11. As a site owner, I want to be able to receive timely notifications of forms submitted through the website so I can quickly respond to prospective and existing customers.
+10. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
+11. As a site owner, I want users too see my most recent client testimonials to build trust and help convert more prospective customers.
+12. As a site owner, I want users to be able to contact me directly through the website.
+12. As the site owner, I want to make sure users are directed back to the index page fo the website and not use their browser's back button should they come across a 404 page not found error.
 
 ## Design
 
@@ -148,6 +150,19 @@ For simplicity the site consists of one primary page (plus a 404 page) and conta
 <img src="docs/wireframes/desktop-wireframe.webp">
 </details>
 
+### 404
+<details><summary>iPhone SE</summary>
+<img src="">
+</details>
+
+<details><summary>iPad Mini</summary>
+<img src="">
+</details>
+
+<details><summary>Desktop</summary>
+<img src="">
+</details>
+
 
 ## Technologies Used
 
@@ -181,7 +196,11 @@ For simplicity the site consists of one primary page (plus a 404 page) and conta
 The website consists of two pages in total, an index page and 404 page. The index page contains 12 distinct features:
 
 ### Logo and Navigation Bar
+- featured on all pages
 - containing the business logo, a responsive navigation menu and call to action button
+- navigation links scroll the user to relevant section of the page
+- the Get a Quote call to action scrolls the user to the contact form
+- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 #### Desktop & Larger Screens
 ![Logo and navbar](docs/features/logo-nav.webp)
