@@ -74,21 +74,20 @@ I have divided my user stories into prospective customers, existing customers, a
 #### Prospective Customers
 1. As a prospective customer, I want to see a list of the services offered by the consultant so that I can understand if the consultant can provide the solution my business is seeking.
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
-3. As a prospective customer, I want to see details of the pricing or price range of the services so that I can understand if the consultant's services fit within my allocated budget and are likely to provide return on investment.
-4. As a prospective customer, I want to see details of the consultant's experience, past customers, and examples of their work or results so that I can feel confident the consultant can deliver the results my business expects.
-5. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
-6. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
-7. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
-8. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content, and see what other social media users say about them.
+3. As a prospective customer, I want to see details of the consultant's experience, past customers, and examples of their work or results so that I can feel confident the consultant can deliver the results my business expects.
+4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
+5. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
+6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
+7. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content, and see what other social media users say about them.
 
 
 #### Existing Customers
-9. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
-10. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
+8. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
+9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
 
 #### Site Owner 
-13. As a site owner, I want to be able to quickly update the service and testimonial sections of the site so I can showcase our newest services and most recent reviews to help convert more prospective customers.
-14. As a site owner, I want to be able to receive timely notifications of forms submitted through the website so I can quickly respond to prospective and existing customers.
+10. As a site owner, I want to be able to quickly update the service and testimonial sections of the site so I can showcase our newest services and most recent reviews to help convert more prospective customers.
+11. As a site owner, I want to be able to receive timely notifications of forms submitted through the website so I can quickly respond to prospective and existing customers.
 
 ## Design
 
@@ -269,33 +268,8 @@ The website was tested on the following browsers:
 - Microsoft Egde
 
 ### Testing user stories
-
-1. As a first time user, 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
-
-<details><summary>Screenshots</summary>
-
-</details>
-
-2. As a first time user, 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
-
-
-<details><summary>Screenshots</summary>
-
-</details>
-
-3. As a first time user, 
+#### Prospective Customers
+1. As a prospective customer, I want to see a list of the services offered by the consultant so that I can understand if the consultant can provide the solution my business is seeking. 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -307,7 +281,7 @@ The website was tested on the following browsers:
 
 </details>
 
-4. As a first time user, 
+2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -320,7 +294,7 @@ The website was tested on the following browsers:
 
 </details>
 
-5. As a returning user, 
+3. As a prospective customer, I want to see details of the consultant's experience, past customers, and examples of their work or results so that I can feel confident the consultant can deliver the results my business expects.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -332,20 +306,7 @@ The website was tested on the following browsers:
 
 </details>
 
-6. As a returnign user, 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
-
-
-<details><summary>Screenshots</summary>
-
-</details>
-
-7. As a returning user, 
+4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -358,7 +319,7 @@ The website was tested on the following browsers:
 
 </details>
 
-8. As a returning user, 
+5. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -371,7 +332,7 @@ The website was tested on the following browsers:
 
 </details>
 
-9. As a returning user, 
+6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -384,7 +345,20 @@ The website was tested on the following browsers:
 
 </details>
 
-10. As a returning user, 
+7. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content, and see what other social media users say about them.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+#### Existing Customers
+8. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -397,7 +371,7 @@ The website was tested on the following browsers:
 
 </details>
 
-11. As a returning user, 
+9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -410,20 +384,8 @@ The website was tested on the following browsers:
 
 </details>
 
-12. As a returning user, 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
-
-
-<details><summary>Screenshots</summary>
-
-</details>
-
-13. As the site owner, 
+#### Site Owner 
+10. As a site owner, I want to be able to quickly update the service and testimonial sections of the site so I can showcase our newest services and most recent reviews to help convert more prospective customers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -435,7 +397,7 @@ The website was tested on the following browsers:
 
 </details>
 
-14. As the site owner,  
+11. As a site owner, I want to be able to receive timely notifications of forms submitted through the website so I can quickly respond to prospective and existing customers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -447,19 +409,6 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 
 </details>
-
-15. As the site owner, 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
-
-<details><summary>Screenshots</summary>
-
-</details>
-
 
 ## Bugs
 
