@@ -74,7 +74,7 @@ I have divided my user stories into prospective customers, existing customers, a
 #### Prospective Customers
 1. As a prospective customer, I want to see a list of the services offered by the consultant so that I can understand if the consultant can provide the solution my business is seeking.
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
-3. As a prospective customer, I want to see details of the consultant's experience, past customers, and examples of their work or results so that I can feel confident the consultant can deliver the results my business expects.
+3. As a prospective customer, I want to see details of the consultant's customers so I can feel confident that the consultant can deliver results for a business like mine.
 4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
 5. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
@@ -87,9 +87,9 @@ I have divided my user stories into prospective customers, existing customers, a
 
 #### Site Owner 
 10. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
-11. As a site owner, I want users too see my most recent client testimonials to build trust and help convert more prospective customers.
+11. As a site owner, I want users to see my most recent client testimonials to build trust and help convert more prospective customers.
 12. As a site owner, I want users to be able to contact me directly through the website.
-12. As the site owner, I want to make sure users are directed back to the index page fo the website and not use their browser's back button should they come across a 404 page not found error.
+13. As the site owner, I want to make sure users are directed back to the index page of the website and not use their browser's back button should they come across a 404 page not found error.
 
 ## Design
 
@@ -105,7 +105,7 @@ Primary Colours - White / Green
 
 Secondary Colours - Yellow / Blue
 
-To remain WCAG AAA compliant, I chose dark colour variants for background colours behind white text to mantain maximum contrast. Colour contrast compliance was tested using [WebAIM's Contrast Checker tool](https://webaim.org/resources/contrastchecker/). Brighter green, yellow, and blue colours used in gradients in the services containers were pruposefully not placed behind text to avoid poor contrast and accessibility issues.
+To remain WCAG AAA compliant, I chose dark colour variants for background colours behind white text to mantain maximum contrast. Colour contrast compliance was tested using [WebAIM's Contrast Checker tool](https://webaim.org/resources/contrastchecker/). Brighter green, yellow, and blue colours used in gradients in the services containers were purposefully not placed behind text to avoid poor contrast and accessibility issues.
 <br>
 
 ![Colour scheme](docs/features/colour-palette.webp)
@@ -193,14 +193,14 @@ For simplicity the site consists of one primary page (plus a 404 page) and conta
 
 
 ## Features
-The website consists of two pages in total, an index page and 404 page. The index page contains 12 distinct features:
+The website consists of two pages in total, an index page and 404 page. The index page contains 13 distinct features:
 
 ### Logo and Navigation Bar
 - featured on all pages
 - containing the business logo, a responsive navigation menu and call to action button
 - navigation links scroll the user to relevant section of the page
 - the Get a Quote call to action scrolls the user to the contact form
-- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9
+- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 
 #### Desktop & Larger Screens
 ![Logo and navbar](docs/features/logo-nav.webp)
@@ -209,12 +209,14 @@ The website consists of two pages in total, an index page and 404 page. The inde
 ![Logo and navbar](docs/features/logo-nav-responsive.webp)
 
 ### Hero Section
-- containing a concise description and image to convey the the business's purpose and value proposition and call to action button
+- containing a concise description and image to convey the the business's purpose and value proposition and call to action button that scrolls to the contact section
+- User stories covered: 1, 4, 5, 6, 7, 8, 9, 12
 
 ![Hero Section](docs/features/hero-section.webp)
 
 ### Client Logos
 - to showcase the consultant's existing clients and build trust with the visitor
+- User stories covered: 3, 4
 
 ![Client Logos](docs/features/client-logos-section.webp)
 
@@ -225,11 +227,13 @@ The website consists of two pages in total, an index page and 404 page. The inde
 
 ### Services Section
 - to provide brief descriptions of the services the consultant provides
+- User stories covered: 1, 2, 5, 6, 8, 10, 12
 
 ![Services Section](docs/features/services-section.webp)
 
 ### Client Testimonials
 - to provide details of testimonials provided by the consultant's clients to increase trust in the consultant's experience and results of services provided. This includes the client's logo, business name, testimonial, and client's name. 
+- User stories covered: 3, 4, 11
 
 ![Client Testimonials](docs/features/client-testimonials-section.webp)
 
@@ -240,23 +244,32 @@ The website consists of two pages in total, an index page and 404 page. The inde
 
 ### About Me 
 - section to provide details of the consultant's work experience and expertise as well as a headshot image to build trust with the visitor
+- User stories covered: 4
 
 ![About Me](docs/features/about-me-section.webp)
 
 ### Contact Form 
-- a contact form to allow the visitor to contact the consultat with questions or to request a quote
+- a contact form to allow the visitor to contact the consultant with questions or to request a quote.
+- User stories covered: 5, 6, 8, 12
 
 ![Contact Form](docs/features/contact-form.webp)
 
 ### Google map 
-- a Google map displaying the consultant's location allowing the visitor to get the consultant's address, view a map of the location and directions to their location
+- a Google map displaying the consultant's location allowing the visitor to get the consultant's address, view a map of the location and directions to their location.
+- User stories covered: 6, 8
 
 ![Google map](docs/features/google-map.webp)
 
 ### Footer
 - which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owners name and copyright notice, and a linkt ot he site owner's GitHub page.
+- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 
 ![Footer Section](docs/features/footer-section.webp)
+
+### 404 Page
+- which displays a 404 page not found message, a 404 image, and a text directing the user to click on a "Return Home" button to navigate back to the index page. 
+- Header and footer navigation remain consistent with the index page design and on all internal navigation links on this page will direct the user back to the index page.
+- User stories covered: 13
 
 ## Validation
 
