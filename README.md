@@ -192,33 +192,51 @@ The website consists of two pages in total, an index page and 404 page. The inde
 ### Hero Section
 - containing a concise description and image to convey the the business's purpose and value proposition and call to action button
 
-![Feature 2]()
+![Hero Section](docs/features/hero-section.webp)
 
 ### Client Logos
 - to showcase the consultant's existing clients and build trust with the visitor
 
+![Client Logos](docs/features/client-logos-section.webp)
+
 ### First Parallax Section 
 - to provide a visual break in the content that displays imagery related to growth
+
+![First Parallax Section ](docs/features/parallax-1.webp)
 
 ### Services Section
 - to provide brief descriptions of the services the consultant provides
 
+![Services Section](docs/features/services-section.webp)
+
 ### Client Testimonials
+
+!Client Testimonials](docs/features/client-testimonials-section.webp)
 
 ### Second Parallax Section 
 - to provide a further visual break in the content that displays imagery related to growth
 
+![Second Parallax Section (docs/features/parallax-2.webp)
+
 ### About Me 
 - section to provide details of the consultant's work experience and expertise as well as a headshot image to build trust with the visitor
+
+![About Me](docs/features/about-me-section.webp)
 
 ### Contact Form 
 - a contact form to allow the visitor to contact the consultat with questions or to request a quote
 
+![Contact Form ](docs/features/contact-form.webp)
+
 ### Google map 
 - a Google map displaying the consultant's location allowing the visitor to get the consultant's address, view a map of the location and directions to their location
 
+![Google map](docs/features/google-map.webp)
+
 ### Footer
 - which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owners name and copyright notice, and a linkt ot he site owner's GitHub page.
+
+![Footer Section](docs/features/footer-section.webp)
 
 ## Validation
 
