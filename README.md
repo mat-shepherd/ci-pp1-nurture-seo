@@ -303,7 +303,7 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | |
 
 <details><summary>Screenshots</summary>
-<img src="/workspaces/ci-pp1-nurture-seo/docs/user-story-testing/list-ofservices-1.webp">
+<img src="docs/user-story-testing/list-ofservices-1.webp">
 </details>
 
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
