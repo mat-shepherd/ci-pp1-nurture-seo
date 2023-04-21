@@ -118,8 +118,13 @@ The website consists of...
 
 ### Wireframes
 
-<details><summary>Home</summary>
-
+<details><summary>Index</summary>
+iPhone SE
+<img src="docs/wireframes/iphone-se-wireframe.webp">
+iPad Mini
+<img src="docs/wireframes/ipad-mini-wireframe.webp">
+Desktop
+<img src="docs/wireframes/desktop-wireframe.webp">
 </details>
 
 
@@ -134,7 +139,7 @@ The website consists of...
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [Gitpod - Cloud IDE](https://www.gitpod.io/)
-- [CodeAnywhere - Cloud IDE)(https://codeanywhere.com/)
+- [CodeAnywhere - Cloud IDE](https://codeanywhere.com/)
 - [GIMP - iamge editor](https://www.gimp.org/)
 - [Figma - wireframing tool](https://www.figma.com/files/recent?fuid=1219987136949485526)
 - [Google Fonts](https://fonts.google.com/)
