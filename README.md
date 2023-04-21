@@ -122,7 +122,7 @@ The logo image uses Nunito Sans Bold as this was the closest complimentary font 
 ### Structure
 The page is structured in an easy to navigate z-shaped pattern allowing visitors to quickly consume key information while scanning the page from left to right. Starting at the the top left of the page the visitor will notice the site logo followed by the navigation menu and a Get a Quote call to action button. This allow them to quickly understand the name of the business, how to navigate the site, and how to get in touch with site owner to get a quote.
 
-The site consists of two pages, an index page and 404 page. The index page contains 10 distinct sections:
+For simplicity the site consists of one primary page (plus a 404 page) and contains 10 distinct sections:
 - A header section containing the business logo, a responsive navigation menu and call to action button
 - A hero section containing a concise description and image to convey the the business's purpose and value proposition and call to action button
 - A client logos section to showcase the consultant's existing clients and build trust with the visitor
@@ -179,18 +179,40 @@ The site consists of two pages, an index page and 404 page. The index page conta
 
 
 ## Features
-The website consists of...
+The website consists of two pagesin total, an index page and 404 page. The index page contains 10 distinct features:
 
 ### Logo and Navigation Bar
-- 
+- containing the business logo, a responsive navigation menu and call to action button
 
-![Logo and navbar](
+![Logo and navbar]()
 
-### Feature 2
-- 
+### Hero Section
+- containing a concise description and image to convey the the business's purpose and value proposition and call to action button
 
 ![Feature 2]()
 
+### Client Logos
+- to showcase the consultant's existing clients and build trust with the visitor
+
+### First Parallax Section 
+- to provide a visual break in the content that displays imagery related to growth
+
+### Services Section
+- to provide brief descriptions of the services the consultant provides
+
+### Client Testimonials
+
+### Second Parallax Section 
+- to provide a further visual break in the content that displays imagery related to growth
+
+### About Me 
+- section to provide details of the consultant's work experience and expertise as well as a headshot image to build trust with the visitor
+
+## Contact Section 
+- which provides a contact form to allow the visitor to contact the consultat with question or to request a quote and a Google map displaying the consultant's location
+
+### Footer
+- which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owners name and copyright notice, and a linkt ot he site owner's GitHub page.
 
 ## Validation
 
