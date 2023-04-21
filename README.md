@@ -118,12 +118,16 @@ The website consists of...
 
 ### Wireframes
 
-<details><summary>Index</summary>
-iPhone SE
+### Index
+<details><summary>iPhone SE</summary>
 <img src="docs/wireframes/iphone-se-wireframe.webp">
-iPad Mini
+</details>
+
+<details><summary>iPad Mini</summary>
 <img src="docs/wireframes/ipad-mini-wireframe.webp">
-Desktop
+</details>
+
+<details><summary>Desktop</summary>
 <img src="docs/wireframes/desktop-wireframe.webp">
 </details>
 
