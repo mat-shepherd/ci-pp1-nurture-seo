@@ -427,18 +427,17 @@ Wireframes
 - [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) by [HubSpot](https://www.hubspot.com/)
     <details><summary>Logo</summary>
     <img src="docs/credits/logo-variations.webp">
-    </details>   
+    </details>
+- Font Awesome Icons by [Font Awesome](https://fontawesome.com/)
+    <details><summary>Service Section [Font Awesome Icons](https://fontawesome.com/icons)</summary>
+    <img src="docs/credits/service-fontawesome-icons.webp">
+    </details>    
 - [Social icons](https://pixabay.com/vectors/social-media-icon-set-facebook-6261537/) by [goddessSue13](https://pixabay.com/users/goddesssue13-615343/)
     <details><summary>Social icons</summary>
     <img src="docs/credits/social-media-6261537_1920.webp">
     </details>
 
-
 Index Page
-- [Julia Larson](https://www.pexels.com/@julia-larson/)
-    <details><summary>Hero Image</summary>
-    <img src="docs/credits/hero-image.jpg">
-    </details>
 - [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) by [HubSpot](https://www.hubspot.com/)
     <details><summary>Logo</summary>
     <img src="docs/credits/logo-variations.webp">
@@ -457,12 +456,24 @@ Index Page
     </details>
 - Scootaround Logo used with permission of former client [Scootaround](https://scootaround.com/en)
     <details><summary>Client Logo: Scootaround</summary>
-    <img src="docs/credits/roadtrips-logo.webp">
+    <img src="docs/credits/scootaround-logo.webp">
     </details>
 - IP Telecom Logo used with permission of former client [IP Telecom](https://www.iptelecom.ie/)
     <details><summary>Client Logo: IP Telecom</summary>
-    <img src="docs/credits/roadtrips-logo.webp">
-    </details>            
+    <img src="docs/credits/ip-telecom-logo536x97.webp">
+    </details>
+- Purchased under subscription from [iStock Photos](https://www.istockphoto.com/) by [amenic181](https://www.istockphoto.com/portfolio/amenic181?mediatype=photography)
+    <details><summary>First Parallax Image: Young plant stock photo</summary>
+    <img src="docs/credits/istock-533007815.webp">
+    </details>
+- Font Awesome Icons by [Font Awesome](https://fontawesome.com/)
+    <details><summary>Service Section [Font Awesome Icons](https://fontawesome.com/icons)</summary>
+    <img src="docs/credits/service-fontawesome-icons.webp">
+    </details>
+- Purchased under subscription from [iStock Photos](https://www.istockphoto.com/) by [Photodjo](https://www.istockphoto.com/portfolio/Photodjo?mediatype=photography)
+    <details><summary>Second Parallax Image: Agriculture stock photo</summary>
+    <img src="docs/credits/istock-533007815.webp">
+    </details>    
 - [goddessSue13](https://pixabay.com/users/goddesssue13-615343/)
     <details><summary>[Social icons](https://pixabay.com/vectors/social-media-icon-set-facebook-6261537/)</summary>
     <img src="docs/credits/social-media-6261537_1920.webp">
