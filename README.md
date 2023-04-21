@@ -439,14 +439,30 @@ Index Page
     <details><summary>Hero Image</summary>
     <img src="docs/credits/hero-image.jpg">
     </details>
-- [Julia Larson](https://www.pexels.com/@julia-larson/)
+- [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) by [HubSpot](https://www.hubspot.com/)
     <details><summary>Logo</summary>
-    <img src="docs/credits/hero-image.jpg">
-    </details>
-- [Julia Larson](https://www.pexels.com/@julia-larson/)
+    <img src="docs/credits/logo-variations.webp">
+    </details>   
+- Purchased under subscription from [iStock Photos](https://www.istockphoto.com/) by [Mykyta Dolmatov](https://www.istockphoto.com/portfolio/VectorKnight?mediatype=illustration)
     <details><summary>Hero Image</summary>
-    <img src="docs/credits/hero-image.jpg">
-    </details>  
+    <img src="docs/credits/istock-1053519140.webp">
+    </details>
+- Roadtrips Logo used with permission of former client [Roadtrips](https://www.roadtrips.com/)
+    <details><summary>Client Logo: Roadtrips</summary>
+    <img src="docs/credits/roadtrips-logo.webp">
+    </details>
+- iQmetrix Logo used with permission of former client [iQmterix](https://www.iqmetrix.com/)
+    <details><summary>Client Logo: iQmetrix</summary>
+    <img src="docs/credits/iqmetrix-black-logo.webp">
+    </details>
+- Scootaround Logo used with permission of former client [Scootaround](https://scootaround.com/en)
+    <details><summary>Client Logo: Scootaround</summary>
+    <img src="docs/credits/roadtrips-logo.webp">
+    </details>
+- IP Telecom Logo used with permission of former client [IP Telecom](https://www.iptelecom.ie/)
+    <details><summary>Client Logo: IP Telecom</summary>
+    <img src="docs/credits/roadtrips-logo.webp">
+    </details>            
 - [goddessSue13](https://pixabay.com/users/goddesssue13-615343/)
     <details><summary>[Social icons](https://pixabay.com/vectors/social-media-icon-set-facebook-6261537/)</summary>
     <img src="docs/credits/social-media-6261537_1920.webp">
