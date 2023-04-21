@@ -472,7 +472,7 @@ Index Page
     </details>
 - Purchased under subscription from [iStock Photos](https://www.istockphoto.com/) by [Photodjo](https://www.istockphoto.com/portfolio/Photodjo?mediatype=photography)
     <details><summary>Second Parallax Image: Agriculture stock photo</summary>
-    <img src="docs/credits/istock-533007815.webp">
+    <img src="docs/credits/istock-1453737875.webp">
     </details>    
 - [goddessSue13](https://pixabay.com/users/goddesssue13-615343/)
     <details><summary>[Social icons](https://pixabay.com/vectors/social-media-icon-set-facebook-6261537/)</summary>
