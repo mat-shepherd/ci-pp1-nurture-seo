@@ -249,10 +249,10 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### 404 
 <details><summary>Mobile</summary>
-
+<img src="docs/lighthouse/404-lighthouse-mobile.webp">
 </details>
 <details><summary>Desktop</summary>
-
+<img src="docs/lighthouse/404-lighthouse-desktop.webp">
 </details>
 
 
