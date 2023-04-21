@@ -403,6 +403,23 @@ The website was tested on the following browsers:
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left-hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automatically you will see a ribbon on the top saying: Your site is live at https://mat-shepherd.github.io/ci-pp1-nurture-seo/
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right-hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7. Press Enter to create your local clone.
 
 
 ## Credits
@@ -411,7 +428,7 @@ Images and logos not referenced below are owned or created by the developer.
 ### Media
 In order of appearance:
 
-Wireframes
+### Wireframes
 - [Figma Wireframing Kit](https://www.figma.com/community/file/1088059168988686975) by [Tiago Gonçalves](https://www.figma.com/community/file/1088059168988686975)
     <details><summary>Image Placeholders</summary>
     <img src="docs/wireframes/desktop-wireframe.webp">
@@ -437,7 +454,7 @@ Wireframes
     <img src="docs/credits/social-media-6261537_1920.webp">
     </details>
 
-Index Page
+### Index Page
 - [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) by [HubSpot](https://www.hubspot.com/)
     <details><summary>Logo</summary>
     <img src="docs/credits/logo-variations.webp">
@@ -479,10 +496,26 @@ Index Page
     <img src="docs/credits/social-media-6261537_1920.webp">
     </details>
 
-  
+### 404 Page
+- Purchased under subscription from [iStock Photos](https://www.istockphoto.com/) by [ilyakalinin](https://www.istockphoto.com/portfolio/ilyakalinin?mediatype=illustration)
+    <details><summary>Missile crashed Page not found error 404</summary>
+    <img src="docs/credits/istock-1324403502.webp">
+    </details>  
+- 
 ### Code
-The markdown structure of this readme was based on the structure of the following readme.md files from other Code Institute student projects:
-- https://github.com/4n4ru/CI_MS1_BodelschwingherHof
-- https://github.com/jamie2210/CI_MS1_TBC
+In order of appearance:
+
+- The markdown structure of this readme and the deployment steps were based on the structure and content of the following readme.md files from other Code Institute student projects:
+    - https://github.com/4n4ru/CI_MS1_BodelschwingherHof
+    - https://github.com/jamie2210/CI_MS1_TBC
+- The HTML and CSS code for the mobile hamburger menu was copied and modified from the [Pure CSS responsive menu](https://codepen.io/alvarotrigo/pen/MWEJEWG) example by [Álvaro](https://codepen.io/alvarotrigo)
+- 
+
 
 ## Acknowledgements
+I would like to thank the following people for their contributions in creating this projecT:
+- My mentor Mo Shami for your support, guidance, and encouragement 
+- Alan Bushell and the February 2023 Student Cohort for their knowledge sharing, advice, and camaraderie during our weekly standup calls and in Slack
+- The Code Institute team for an excellent experience and great support leading leading up to this first project
+- My wife for her patience and support while I sit in front of the computer for hours on end
+- My boys William and Oliver for helping me test the site and spot bugs!
