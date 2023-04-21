@@ -8,8 +8,8 @@
 ## Table of Content
 
 1. [Project Goals](#project-goals)
-    1. [User Goals](#user-goals)
-    2. [Site Owner Goals](#site-owner-goals)
+    1. [Business Goals](#business-oals)
+    2. [User Goals](#user-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
@@ -257,15 +257,18 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
+- Windows 10 Pro Desktop PC
+- Windows 10 Pro Micrososft Surface Book 2
+- Samsung Galaxy S10
 
 
 In addition, the website was tested using Google Chrome Developer Tools Device Toggling option for all available device options.
 
 ### Browser compatability
 The website was tested on the following browsers:
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Egde
+- Google Chrome Version 112.0.5615.138 (Official Build) (64-bit)
+- Mozilla Firefox Version 112.0.1 (64-bit)
+- Microsoft Egde Version 112.0.1722.48
 
 ### Testing user stories
 #### Prospective Customers
@@ -273,8 +276,8 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
+| Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button ||
+| Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | |
 | | | |
 
 <details><summary>Screenshots</summary>
