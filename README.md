@@ -406,10 +406,51 @@ The website was deployed using GitHub Pages by following these steps:
 
 
 ## Credits
-
+Images and logos not referenced below are owned or created by the developer.
 
 ### Media
 In order of appearance:
+
+Wireframes
+- [Tiago Gonçalves](https://www.figma.com/community/file/1088059168988686975)
+    <details><summary>Image Placeholders: [Figma Wireframing Kit](https://www.figma.com/community/file/1088059168988686975)</summary>
+    <img src="https://placehold.co/600x400">
+    </details>
+- [UI-UX Expert](https://www.figma.com/@uiux_expert)
+    <details><summary>Button, Menu and Form Elements: [Website Wireframes UI Kit](https://www.figma.com/community/file/1212997233512196965)</summary>
+    <img src="https://placehold.co/600x400">
+    </details>    
+- [placehold.co](https://placehold.co/)
+    <details><summary>Placeholder Images</summary>
+    <img src="https://placehold.co/600x400">
+    </details>
+- [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/)
+    <details><summary>[Logo](docs/credits/brandkit.pdf)</summary>
+    <img src="docs/credits/logo-variations.webp">
+    </details>   
+- [goddessSue13](https://pixabay.com/users/goddesssue13-615343/)
+    <details><summary>[Social icons](https://pixabay.com/vectors/social-media-icon-set-facebook-6261537/)</summary>
+    <img src="docs/credits/social-media-6261537_1920.webp">
+    </details>
+
+
+Index Page
+- [Julia Larson](https://www.pexels.com/@julia-larson/)
+    <details><summary>Hero Image</summary>
+    <img src="docs/credits/hero-image.jpg">
+    </details>
+- [Julia Larson](https://www.pexels.com/@julia-larson/)
+    <details><summary>Logo</summary>
+    <img src="docs/credits/hero-image.jpg">
+    </details>
+- [Julia Larson](https://www.pexels.com/@julia-larson/)
+    <details><summary>Hero Image</summary>
+    <img src="docs/credits/hero-image.jpg">
+    </details>  
+- [goddessSue13](https://pixabay.com/users/goddesssue13-615343/)
+    <details><summary>[Social icons](https://pixabay.com/vectors/social-media-icon-set-facebook-6261537/)</summary>
+    <img src="docs/credits/social-media-6261537_1920.webp">
+    </details>
 
   
 ### Code
