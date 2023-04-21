@@ -111,6 +111,11 @@ To remain WCAG AAA compliant, I chose dark colour variants for background colour
 
 
 ### Fonts
+Oswald and Noto Serif fonts were selected with the help of the [21 Google Fonts Combinations For Websites & Brands](https://www.garett.co/21-google-fonts-combinations-for-websites-brands) article by [Garett Southerton](https://www.garett.co/about). The article noted that these fonts are "...perfect for brands that are sleek, impactful, or need to build trust with their audience."
+
+Oswald font is used for site headings and Noto Serif for the main body text. Both fonts use a sans serif fallback.
+
+The logo image uses Nunito Sans Bold as this was the closest complimentary font available in the [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) tool.
 
 ### Structure
 The page is structured...
@@ -154,7 +159,10 @@ The website consists of...
 - [Responsive Image Breakpoints Generator v2.0](https://www.responsivebreakpoints.com/) tool by [Cloudinary](https://cloudinary.com/)
 - [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator)
 - CSS Gradient tool at [cssgradient.io](https://cssgradient.io/)
-- [WebAIM's Contrast Checker tool](https://webaim.org/resources/contrastchecker/)
+- [W3C Markup Validation Service](https://validator.w3.org/)
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [WAVE web accessibility evaluation tool](https://wave.webaim.org/)
+- [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
 
 
 ## Features
