@@ -327,7 +327,7 @@ The website was tested on the following browsers:
 
 ### Testing user stories
 #### Prospective Customers
-1. As a prospective customer, I want to see a list of the services offered by the consultant so that I can understand if the consultant can provide the solution my business is seeking. 
+1. As a prospective customer, I want to see a list of the services offered by the consultant so that I can understand if the consultant can provide the solution my business is seeking.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -351,7 +351,7 @@ The website was tested on the following browsers:
 
 </details>
 
-3. As a prospective customer, I want to see details of the consultant's experience, past customers, and examples of their work or results so that I can feel confident the consultant can deliver the results my business expects.
+3. As a prospective customer, I want to see details of the consultant's customers so I can feel confident that the consultant can deliver results for a business like mine.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -442,7 +442,7 @@ The website was tested on the following browsers:
 </details>
 
 #### Site Owner 
-10. As a site owner, I want to be able to quickly update the service and testimonial sections of the site so I can showcase our newest services and most recent reviews to help convert more prospective customers.
+10. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -454,7 +454,33 @@ The website was tested on the following browsers:
 
 </details>
 
-11. As a site owner, I want to be able to receive timely notifications of forms submitted through the website so I can quickly respond to prospective and existing customers.
+11. As a site owner, I want users to see my most recent client testimonials to build trust and help convert more prospective customers.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+12. As a site owner, I want users to be able to contact me directly through the website.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+13. As the site owner, I want to make sure users are directed back to the index page of the website and not use their browser's back button should they come across a 404 page not found error.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -598,7 +624,7 @@ In order of appearance:
 
 
 ## Acknowledgements
-I would like to thank the following people for their contributions in creating this projecT:
+I would like to thank the following people for their contributions in creating this project:
 - My mentor Mo Shami for your support, guidance, and encouragement 
 - Alan Bushell and the February 2023 Student Cohort for their knowledge sharing, advice, and camaraderie during our weekly standup calls and in Slack
 - The Code Institute team for an excellent experience and great support leading leading up to this first project
