@@ -131,7 +131,7 @@ For simplicity the site consists of one primary page (plus a 404 page) and conta
 - Another parallax section to provide a further visual break in the content that displays imagery related to growth
 - An About me section to provide details of the consultant's work experience and expertise as well as a headshot image to build trust with the visitor
 - A contact section which provides a contact form to allow the visitor to contact the consultat with question or to request a quote and a Google map displaying the consultant's location
-- A footer section which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owners name and copyright notice, and a linkt ot he site owner's GitHub page.
+- A footer section which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owners name and copyright notice, and a link to the site owner's GitHub page.
 
 ### Wireframes
 
