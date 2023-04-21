@@ -179,7 +179,7 @@ For simplicity the site consists of one primary page (plus a 404 page) and conta
 
 
 ## Features
-The website consists of two pagesin total, an index page and 404 page. The index page contains 10 distinct features:
+The website consists of two pages in total, an index page and 404 page. The index page contains 12 distinct features:
 
 ### Logo and Navigation Bar
 - containing the business logo, a responsive navigation menu and call to action button
@@ -208,8 +208,11 @@ The website consists of two pagesin total, an index page and 404 page. The index
 ### About Me 
 - section to provide details of the consultant's work experience and expertise as well as a headshot image to build trust with the visitor
 
-## Contact Section 
-- which provides a contact form to allow the visitor to contact the consultat with question or to request a quote and a Google map displaying the consultant's location
+### Contact Form 
+- a contact form to allow the visitor to contact the consultat with questions or to request a quote
+
+### Google map 
+- a Google map displaying the consultant's location allowing the visitor to get the consultant's address, view a map of the location and directions to their location
 
 ### Footer
 - which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owners name and copyright notice, and a linkt ot he site owner's GitHub page.
@@ -218,32 +221,37 @@ The website consists of two pagesin total, an index page and 404 page. The index
 
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
-<details><summary>Home</summary>
 
-</details>
->
+index.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmat-shepherd.github.io%2Fci-pp1-nurture-seo%2F)
+404.html results [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmat-shepherd.github.io%2Fci-pp1-nurture-seo%2F404.html)
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 
-<details><summary>whole page</summary>
-
-</details>
-<details><summary>style.css</summary>
-
-</details>
+styles.css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmat-shepherd.github.io%2Fci-pp1-nurture-seo%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
-<details><summary>Home</summary>
 
-</details>
-
+index.html [results](https://wave.webaim.org/report#/https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
+404.html results [results](https://wave.webaim.org/report#/https://mat-shepherd.github.io/ci-pp1-nurture-seo/404.html)
 
 ### Performance 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. All elements perfomed well.
 
-<details><summary>Home</summary>
+### Index 
+<details><summary>Mobile</summary>
+<img src="docs/lighthouse/index-lighthouse-mobile.webp">
+</details>
+<details><summary>Desktop</summary>
+<img src="docs/lighthouse/index-lighthouse-desktop.webp">
+</details>
+
+### 404 
+<details><summary>Mobile</summary>
+
+</details>
+<details><summary>Desktop</summary>
 
 </details>
 
