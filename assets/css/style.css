@@ -506,7 +506,12 @@ transform: rotate(-405deg);
     padding: 0.5em 0.5em;
 }
 
-a.connect-link:link, a.connect-link:visited, a.connect-link:hover, a.connect-link:active {
+.connect-link {
+    margin-top: 20px;
+    float: left;
+}
+
+.connect-link a:link, .connect-link a:visited, .connect-link a:hover, .connect-link a:active {
     color: #333;
     text-decoration: none;
 }
