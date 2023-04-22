@@ -24,6 +24,8 @@
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks--tools)
 5. [Features](#features)
+    1. [Existing Features](#existing-feature)
+    2. [Features Left to Implement](#features-left-to-implement)
 6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
@@ -193,6 +195,8 @@ For simplicity the site consists of one primary page (plus a 404 page) and conta
 ## Features
 The website consists of two pages in total, an index page and 404 page. The index page contains 13 distinct features:
 
+### Existing Features
+
 ### Logo and Navigation Bar
 - featured on all pages
 - containing the business logo, a responsive navigation menu and call to action button
@@ -268,6 +272,16 @@ The website consists of two pages in total, an index page and 404 page. The inde
 - which displays a 404 page not found message, a 404 image, and a text directing the user to click on a "Return Home" button to navigate back to the index page. 
 - Header and footer navigation remain consistent with the index page design and on all internal navigation links on this page will direct the user back to the index page.
 - User stories covered: 13
+
+### Features Left to Implement
+The following features could be implemented in the future to provide users with more detailed information and further build trust through the website:
+
+- Individual service pages could expand upon the services provided detailing the service process, timeline, typical costs, and deliverables.
+- When more testimonials are gathered the client testimonials section could implement a carousel feature to rotate through testimonials. 
+- When more testimonials are gathered a testimonials page could be created to display all testimonials.
+- A case studies pages could be created to showcase the work carried out and results achieved fo some of the consultant's clients.
+- Individual case studies could be showcased through a case studies card feature on the index page. These showcased case studies could then link to the case studies page. With more features added to the index page this could warrant moving the contact and about section to their own pages.
+- A blog feature could be implemented to allow the consultant to share knowledge and thought leadership by publishing blog article sont he site which would then be displayed on a blog listing page.
 
 ## Testing
 
