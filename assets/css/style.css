@@ -619,6 +619,11 @@ footer li a:hover {
     text-decoration: none;
 }
 
+a[href^="mailto:"]:link, a[href^="mailto:"]:visited, a[href^="mailto:"]:active {
+    color: #fff;
+    text-decoration: none; 
+}
+
 #footer-bottom {
     min-width: 320px;
     width: 100%;
