@@ -507,7 +507,7 @@ transform: rotate(-405deg);
 }
 
 .connect-link {
-    margin-top: 20px;
+    margin-top: 40px;
     text-decoration: underline;
 }
 
@@ -700,7 +700,7 @@ section {
 }
 
 #connect-container iframe {
-    height: 500px;
+    height: 550px;
 }
 
 footer {
