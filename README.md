@@ -347,7 +347,7 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Services Section and Contact</summary>
-<img src="docs/user-story-testing/list-ofservices-1.webp">
+<img src="docs/user story testing/user-story-test-1-2.gif">
 </details>
 
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
@@ -357,8 +357,8 @@ The website was tested on the following browsers:
 | Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button | Works as expected |
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/list-ofservices-1.webp">
+<details><summary>Find Service Descriptions and Contact</summary>
+<img src="docs/user story testing/user-story-test-1-2.gif">
 </details>
 
 3. As a prospective customer, I want to see details of the consultant's customers so I can feel confident that the consultant can deliver results for a business like mine.
@@ -368,21 +368,21 @@ The website was tested on the following browsers:
 | Client Logos Section | Visible on page load even on most small screens otherwise can scroll to view | Client logos listed on page load | Works as expected |
 | Client Testimonials Section| Click Testimonials and/or Scroll to Client Testimonials Section| Scroll to Client Testimonials section to see one client testimonial | Works as expected |
 
-<details><summary>Screenshots</summary>
-
+<details><summary>Find Details of Consultant's Customers</summary>
+<img src="docs/user story testing/user-story-test-3.gif">
 </details>
 
 4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Hero Section | Read hero section details to understand what the consultant provides | Read hero section and click Ask Me How | Works as expected |
+| Client Logos | Review clients logos to understand the kinds of client the consultant works with | Review client logos | Works as expected |
+| About Matthew Section | Click About in navigation menu or scroll to about section | Scroll to About Matthew section and read details | Works as expected |
 
 
-<details><summary>Screenshots</summary>
-
+<details><summary>Find Details of the Consultant's Work Experience and Expertise</summary>
+<img src="docs/user story testing/user-story-test-4.gif">
 </details>
 
 5. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
