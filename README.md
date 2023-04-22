@@ -390,12 +390,10 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in service section. | Scroll to contact form and submit message | Works as expected |
-| Contact Information Section | Click Contact and scroll to footer to view contact information | Scroll to contact form and submit message |  |
-| | | |
-
+| Contact Information Section | Click Contact and scroll to contact form if further contact information required clock link beneath submit button to scrool to footer | Scroll to contact form and submit message or use email link in footer | Works as expected  |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user story testing/user-story-test-5.gif">
 </details>
 
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
