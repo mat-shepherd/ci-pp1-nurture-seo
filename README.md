@@ -390,7 +390,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in service section. | Scroll to contact form and submit message | Works as expected |
-| Contact Information Section | Click Contact and scroll to contact form if further contact information required clock link beneath submit button to scrool to footer | Scroll to contact form and submit message or use email link in footer | Works as expected  |
+| Contact Information Section | Click Contact and scroll to contact form. If further contact information required click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact form and submit message or use email link in footer | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user story testing/user-story-test-5.gif">
