@@ -12,24 +12,24 @@
     2. [User Goals](#user-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Colours](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks & Tools](#frameworks--tools)
 5. [Features](#features)
-6. [Testing](#validation)
+6. [Testing](#testing)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
+    5. [Device testing](#device-testing)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
@@ -97,8 +97,8 @@ I researched other digital marketing agency websites to find a bright, clean, an
 
 Imagery used on the site was chosen to convey growth and as such are primarily images of nature. The hero iamge was chosen to covney the digital mrketing services provided.
 
-### Colour
-As the agency focuses on growth through SEO and is called Nurture SEO I chose elemental (earth, water, sun, air) and organic (plants) colours to convey organic growth. Colors were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
+### Colours
+As the agency focuses on growth through SEO and is called Nurture SEO I chose elemental (earth, water, sun, air) and organic (plants) colours to convey organic growth. Colours were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
 
 Primary Colours - White / Green
 
@@ -269,7 +269,7 @@ The website consists of two pages in total, an index page and 404 page. The inde
 - Header and footer navigation remain consistent with the index page design and on all internal navigation links on this page will direct the user back to the index page.
 - User stories covered: 13
 
-## Validation
+## Testing
 
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
@@ -308,7 +308,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 </details>
 
 
-### Performing tests on various devices 
+### Device testing
 The website was tested on the following devices:
 - Windows 10 Pro Desktop PC
 - Windows 10 Pro Micrososft Surface Book 2
