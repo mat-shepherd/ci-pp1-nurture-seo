@@ -343,8 +343,8 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button ||
-| Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | |
+| Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button | Works as expected |
+| Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/list-ofservices-1.webp">
@@ -354,22 +354,19 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
-
+| Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button | Works as expected |
+| Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user-story-testing/list-ofservices-1.webp">
 </details>
 
 3. As a prospective customer, I want to see details of the consultant's customers so I can feel confident that the consultant can deliver results for a business like mine.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Client Logos Section | Visible on page load even on most small screens otherwise can scroll to view | Client logos listed on page load | Works as expected |
+| Client Testimonials Section| Click Testimonials and/or Scroll to Client Testimonials Section| Scroll to Client Testimonials section to see one client testimonial | Works as expected |
 
 <details><summary>Screenshots</summary>
 
