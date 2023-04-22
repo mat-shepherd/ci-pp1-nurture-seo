@@ -506,6 +506,11 @@ transform: rotate(-405deg);
     padding: 0.5em 0.5em;
 }
 
+a.connect-link:link, a.connect-link:visited, a.connect-link:hover, a.connect-link:active {
+    color: #333;
+    text-decoration: none;
+}
+
 /* Footer Section
    ========================================================================== */
 
