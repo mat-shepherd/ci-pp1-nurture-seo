@@ -346,7 +346,7 @@ The website was tested on the following browsers:
 | Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button | Works as expected |
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
-<details><summary>Screenshots</summary>
+<details><summary>Find Services Section and Contact</summary>
 <img src="docs/user-story-testing/list-ofservices-1.webp">
 </details>
 
