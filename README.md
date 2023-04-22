@@ -276,12 +276,12 @@ The website consists of two pages in total, an index page and 404 page. The inde
 ### Features Left to Implement
 The following features could be implemented in the future to provide users with more detailed information and further build trust through the website:
 
-- Individual service pages could expand upon the services provided detailing the service process, timeline, typical costs, and deliverables.
+- Individual service pages could expand upon the services provided detailing the service process, timeline, typical costs, and deliverables. This would also be beneficial for the search engine visibility of the website for relevant service keywords.
 - When more testimonials are gathered the client testimonials section could implement a carousel feature to rotate through testimonials. 
 - When more testimonials are gathered a testimonials page could be created to display all testimonials.
 - A case studies pages could be created to showcase the work carried out and results achieved fo some of the consultant's clients.
 - Individual case studies could be showcased through a case studies card feature on the index page. These showcased case studies could then link to the case studies page. With more features added to the index page this could warrant moving the contact and about section to their own pages.
-- A blog feature could be implemented to allow the consultant to share knowledge and thought leadership by publishing blog article sont he site which would then be displayed on a blog listing page.
+- A blog feature could be implemented to allow the consultant to share knowledge and thought leadership by publishing blog article sont he site which would then be displayed on a blog listing page. This would also be beneficial the search engine visibility of the website across a range of relevant industry and user goal related keywords.
 
 ## Testing
 
@@ -510,9 +510,11 @@ The website was tested on the following browsers:
 | **Bug** | **Fix** |
 | ----------- | ----------- |
 | Mobile hamburger menu icon had a small tap target and was difficult to select to open the menu. | The height of the menu button div was set to 100% which was leading to a height of 0px. Setting this to a fixed height of 30px corrected the issue.|
-| The original code for the Mobile hamburger menu included a div insie of label that was failinga ccessibility testing. | Changed the div to a span which passed acessibility tests with no impact on menu functionality. |
+| The original code for the Mobile hamburger menu included a div insie of label that was failing accessibility testing. | Changed the div to a span which passed acessibility tests with no impact on menu functionality. |
 | Service containers were different heights which was determined by the amount of content they contained and the width of their parent elements as they flexed across different viewport sizes. | This was corrected by setting the align-self property to stretch for the service-containers class. Credit to the [Same Columns Height](https://flexbox.ninja/demos/same-height-columns/) article by [Geoffrey Crofte at Flexbox Ninja](https://flexbox.ninja/about/) and the [CSS equal height columns](https://daily-dev-tips.com/posts/css-equal-height-columns/) article by [Chris Bongers at Daily Dev Tips](https://daily-dev-tips.com/about/). |
 | The mobile hamburger menu which is driven by pure HTML and CSS uses a checkbox and label element. The label element was empty which was producing a "A form label is present, but does not contain any content" error in the WAVE accessibility test. | This was corrected by adding text inside of a span element within the label element and then using a visually-hidden class and CSS to hige the text from rendering in the browser. Credit to [this Stack Overflow answer](https://stackoverflow.com/a/71369523/21643967) by [GrahamTheDev](https://stackoverflow.com/users/2702894/grahamthedev). |
+| Google Lighthouse flags that a number of images are not using explicit width and height values which is causing Cumulative Layout Shift which is leading to a slightly reduced performance score. | As I chose to use img srcset to serve different image sizes across various screen size breakpoints along with image lazy loading to improve performance and user experience it wasn't practical to set explicit img widths and heights. A performance score of 98 is a good result and will provide mobile users with a great suer experience even on slow mobile connections. |
+
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
