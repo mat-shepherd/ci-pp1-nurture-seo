@@ -390,7 +390,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in service section. | Scroll to contact form and submit message | Works as expected |
-| Contact Information Section | | |
+| Contact Information Section | Click Contact and scroll to footer to view contact information | Scroll to contact form and submit message |  |
 | | | |
 
 
