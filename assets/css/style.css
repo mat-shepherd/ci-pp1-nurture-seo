@@ -508,7 +508,7 @@ transform: rotate(-405deg);
 
 .connect-link {
     margin-top: 20px;
-    float: left;
+    text-decoration: underline;
 }
 
 .connect-link a:link, .connect-link a:visited, .connect-link a:hover, .connect-link a:active {
