@@ -82,9 +82,9 @@ function printParams() {
     var resultsDiv = document.getElementById('form-message-values');
   
     // Print the values for the specified parameters
-    resultsDiv.innerHTML = 'Here are the details you submitted:<br><br>';
+    resultsDiv.innerHTML = '';
     if (params.first_name) {
-      resultsDiv.innerHTML += '<p>First Name: ' + params.first_name + '</p>';
+      resultsDiv.innerHTML += 'Here are the details you submitted:<br><br><p>First Name: ' + params.first_name + '</p>';
     }
     if (params.last_name) {
       resultsDiv.innerHTML += '<p>Last Name: ' + params.last_name + '</p>';
