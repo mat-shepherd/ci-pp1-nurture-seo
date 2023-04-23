@@ -189,6 +189,12 @@ nav li a:hover {
     align-items: center;
 }
 
+/* 
+Fix mobile menu empty form label. Code adapated from 
+https://stackoverflow.com/questions/71369244/empty-form-label-a-form-label-is-present-but-does-not-contain-any-content/71369523#71369523
+by GrahamTheDev
+*/
+
 .visually-hidden {
     border: 0;
     padding: 0;
@@ -363,6 +369,10 @@ transform: rotate(-405deg);
 	margin: 5px 0 0 0;
 }
 
+/*
+CSS gradient styles generated using https://cssgradient.io
+*/
+
 #service1 {
     background: rgb(255,255,255);
     background: linear-gradient(360deg, rgba(255,255,255,1) 92%, rgba(27, 94, 32, 1) 100%);
@@ -404,6 +414,12 @@ transform: rotate(-405deg);
     width: 280px;
     padding: 0 1em;
 }
+
+/*
+The styles used below to achieve a circular frame around the index page's
+headshot image was adapted from the Code Institute's Love Running Project
+https://github.com/Code-Institute-Org/love-running-2.0
+*/
 
 #about-image-container {
     background: url('../images/matthew-shepherd-140.webp') no-repeat center center;    
