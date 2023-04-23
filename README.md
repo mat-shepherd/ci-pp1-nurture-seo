@@ -400,7 +400,7 @@ The website was tested on the following browsers:
 | Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in the footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user-story-testing/user-story-test-5-8.gif">
+<img src="docs/user-story-testing/user-story-test-5-8-12.gif">
 </details>
 <br>
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
