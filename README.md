@@ -5,8 +5,6 @@
 
 [Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge)   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge)   ![GitHub top language](https://img.shields.io/github/languages/top/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge) ![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
-
 ## Table of Contents
 
 1. [Project Goals](#project-goals)
@@ -617,7 +615,6 @@ In order of appearance:
 - The markdown structure of this readme and the deployment steps were based on the structure and content of the following readme.md files from other Code Institute student projects:
     - https://github.com/4n4ru/CI_MS1_BodelschwingherHof
     - https://github.com/jamie2210/CI_MS1_TBC
-- The image shields displayed at the top of the readme file were based on [Benjamin Riordan's readme CI PP1 readme file](https://github.com/Benjamin-Riordan/PP1_Kawazaki_NINJA/blob/main/README.md)
 - The HTML and CSS code for the mobile hamburger menu was copied and modified from the [Pure CSS responsive menu](https://codepen.io/alvarotrigo/pen/MWEJEWG) example by [Álvaro](https://codepen.io/alvarotrigo)
 - The accessibility bug where the label element used in the mobile menu required text was overcome using the code from [this Stack Overflow answer](https://stackoverflow.com/a/71369523/21643967) by [GrahamTheDev](https://stackoverflow.com/users/2702894/grahamthedev)
 - Flexbox methods used throughout the site were learned from [W3C Schools](https://www.w3schools.com/css/css3_flexbox_container.asp) and the amazing [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by [Chris Coyier at CSS Tricks](https://css-tricks.com/author/chriscoyier/)
