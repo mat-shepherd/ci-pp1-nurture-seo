@@ -355,7 +355,7 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Services Section and Contact</summary>
-<img src="docs/user story testing/user-story-test-1-2-10.gif">
+<img src="docs/user-story-testing/user-story-test-1-2-10.gif">
 </details>
 
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
@@ -366,7 +366,7 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Service Descriptions and Contact</summary>
-<img src="docs/user story testing/user-story-test-1-2.gif">
+<img src="docs/user-story-testing/user-story-test-1-2-10.gif">
 </details>
 
 3. As a prospective customer, I want to see details of the consultant's customers so I can feel confident that the consultant can deliver results for a business like mine.
@@ -377,7 +377,7 @@ The website was tested on the following browsers:
 | Client Testimonials Section| Click Testimonials and/or Scroll to Client Testimonials Section| Scroll to Client Testimonials section to see one client testimonial | Works as expected |
 
 <details><summary>Find Details of Consultant's Customers</summary>
-<img src="docs/user story testing/user-story-test-3-11.gif">
+<img src="docs/user-story-testing/user-story-test-3-11.gif">
 </details>
 
 4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
@@ -390,7 +390,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Find Details of the Consultant's Work Experience and Expertise</summary>
-<img src="docs/user story testing/user-story-test-4.gif">
+<img src="docs/user-story-testing/user-story-test-4.gif">
 </details>
 
 5. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
@@ -401,7 +401,7 @@ The website was tested on the following browsers:
 | Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in the footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user story testing/user-story-test-5-8.gif">
+<img src="docs/user-story-testing/user-story-test-5-8.gif">
 </details>
 
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
@@ -413,7 +413,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Find Consultant's Contact Details and Location</summary>
-<img src="docs/user story testing/user-story-test-6.gif">
+<img src="docs/user-story-testing/user-story-test-6.gif">
 </details>
 
 7. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content and see what other social media users say about them.
@@ -423,7 +423,7 @@ The website was tested on the following browsers:
 | Footer Contact Information Section | Click Contact to scroll to the Contact section. If within view, scroll to the social links in the footer (which is a typical location to find them), if not click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact information in the footer and locate the social media links and navigate to a social profile | Works as expected |
 
 <details><summary>Find Consultant's Social Media Details</summary>
-<img src="docs/user story testing/user-story-test-7-9.gif">
+<img src="docs/user-story-testing/user-story-test-7-9.gif">
 </details>
 
 
@@ -437,7 +437,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user story testing/user-story-test-5-8-12.gif">
+<img src="docs/user-story-testing/user-story-test-5-8-12.gif">
 </details>
 
 9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
@@ -448,7 +448,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Find Consultant's Social Media Details</summary>
-<img src="docs/user story testing/user-story-test-7-9.gif">
+<img src="docs/user-story-testing/user-story-test-7-9.gif">
 </details>
 
 #### Site Owner 
@@ -460,7 +460,7 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the Contact section at the bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Service Descriptions and Contact</summary>
-<img src="docs/user story testing/user-story-test-1-2-10.gif">
+<img src="docs/user-story-testing/user-story-test-1-2-10.gif">
 </details>
 
 11. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
@@ -471,7 +471,7 @@ The website was tested on the following browsers:
 | Client Testimonials Section| Click Testimonials and/or scroll to the Client Testimonials Section| Scroll to the Client Testimonials section to see one client testimonial | Works as expected |
 
 <details><summary>Find Details of Consultant's Customers</summary>
-<img src="docs/user story testing/user-story-test-3-11.gif">
+<img src="docs/user-story-testing/user-story-test-3-11.gif">
 </details>
 
 12. As a site owner, I want users to be able to contact me directly through the website.
@@ -482,7 +482,7 @@ The website was tested on the following browsers:
 | Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user story testing/user-story-test-5-8-12.gif">
+<img src="docs/user-story-testing/user-story-test-5-8-12.gif">
 </details>
 
 13. As the site owner, I want to make sure users are directed back to the index page of the website and do not use their browser's back button should they come across a 404 page not found error.
@@ -493,7 +493,7 @@ The website was tested on the following browsers:
 | 404 Page Navigation Links | Navigate to a URL that doesn't exist within the sites file structure and find a way to navigate back to the home page | Read the 404 page and click on the Return Home link or any other internal link on the page to return to the index page | Works as expected |
 
 <details><summary>404 Page</summary>
-<img src="docs/user story testing/user-story-test-13.gif">
+<img src="docs/user-story-testing/user-story-test-13.gif">
 </details>
 
 [Back to Table of Contents](#table-of-contents)
