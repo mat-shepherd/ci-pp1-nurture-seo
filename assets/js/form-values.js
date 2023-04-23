@@ -84,15 +84,15 @@ function printParams() {
     // Print the values for the specified parameters
     resultsDiv.innerHTML = 'Here are the details you submitted:<br><br>';
     if (params.first_name) {
-      resultsDiv.innerHTML += '<p>First Name: ' + decodeURIComponent(params.first_name) + '</p>';
+      resultsDiv.innerHTML += '<p>First Name: ' + params.first_name + '</p>';
     }
     if (params.last_name) {
-      resultsDiv.innerHTML += '<p>Last Name: ' + decodeURIComponent(params.last_name) + '</p>';
+      resultsDiv.innerHTML += '<p>Last Name: ' + params.last_name + '</p>';
     }
     if (params.email) {
       resultsDiv.innerHTML += '<p>Email: ' + decodeURIComponent(params.email) + '</p>';
     }
     if (params.message) {
-      resultsDiv.innerHTML += '<p>Message: ' + decodeURIComponent(params.message) + '</p>';
+      resultsDiv.innerHTML += '<p>Message: ' + params.message + '</p>';
     }
   }
