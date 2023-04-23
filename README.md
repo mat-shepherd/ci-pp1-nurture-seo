@@ -487,7 +487,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>404 Page</summary>
-
+<img src="docs/user story testing/user-story-test-13.gif">
 </details>
 
 ## Bugs
