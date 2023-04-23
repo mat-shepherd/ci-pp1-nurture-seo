@@ -390,9 +390,9 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in service section. | Scroll to contact form and submit message | Works as expected |
-| Contact Information Section | Click Contact and scroll to contact form. If further contact information required click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact form and submit message or use email link in footer | Works as expected |
+| Contact Section | Click Contact to scroll to contact form. If further contact information required click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact form and submit message or use email link in footer | Works as expected |
 
-<details><summary>Screenshots</summary>
+<details><summary>Submit Message Through Contact Form</summary>
 <img src="docs/user story testing/user-story-test-5.gif">
 </details>
 
@@ -400,20 +400,19 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Google Map Contact Section | Click Contact to scroll to contact section or scroll down page | Scroll to contact section and view address and location on Google Map | Works as expected |
+| Contact Section | Click Contact to scroll to contact form. If further contact information required click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact form and submit message or use email link or phone number in the footer | Works as expected |
 
 
-<details><summary>Screenshots</summary>
-
+<details><summary>Find Consultant's Contact Details and Location</summary>
+<img src="docs/user story testing/user-story-test-6.gif">
 </details>
 
 7. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content, and see what other social media users say about them.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
+| Footer Contact Information Section | | |
 | | | |
 | | | |
 
