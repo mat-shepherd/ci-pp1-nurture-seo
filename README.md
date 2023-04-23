@@ -54,7 +54,7 @@ The goals of this website include:
 - Find proof of work that the consultant can deliver the results desired
 - Contact the consultant to request more details on the services provided and request a proposal
 
-[Back to Table of COntents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ## User Experience
 
@@ -93,6 +93,8 @@ I have divided my user stories into prospective customers, existing customers, a
 11. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
 12. As a site owner, I want users to be able to contact me directly through the website.
 13. As the site owner, I want to make sure users are directed back to the index page of the website and do not use their browser's back button should they come across a 404 page not found error.
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Design
 
@@ -165,6 +167,7 @@ For simplicity, the site consists of one primary page (plus a 404 page) and cont
 <img src="docs/wireframes/404-desktop-wireframe.webp">
 </details>
 
+[Back to Table of Contents](#table-of-contents)
 
 ## Technologies Used
 
@@ -193,6 +196,7 @@ For simplicity, the site consists of one primary page (plus a 404 page) and cont
 - [WAVE web accessibility evaluation tool](https://wave.webaim.org/)
 - [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
 
+[Back to Table of Contents](#table-of-contents)
 
 ## Features
 The website consists of two pages in total, an index page and a 404 page. The index page contains 13 distinct features:
@@ -285,6 +289,8 @@ The following features could be implemented in the future to provide users with 
 - Individual case studies could be showcased through a case studies card feature on the index page. These showcased case studies could then link to the case studies page. With more features added to the index page this could warrant moving the contact and about sections to their own pages.
 - A blog feature could be implemented to allow the consultant to share knowledge and thought leadership by publishing blog articles on the site, which would then be displayed on a blog listing page. This would also be beneficial to the search engine visibility of the website across a range of relevant industry and user-goal-related keywords.
 
+[Back to Table of Contents](#table-of-contents)
+
 ## Testing
 
 ### HTML Validation
@@ -322,7 +328,6 @@ Google Lighthouse in Google's Chrome Developer Tools was used to test the perfor
 <details><summary>Desktop</summary>
 <img src="docs/lighthouse/404-lighthouse-desktop.webp">
 </details>
-
 
 ### Device testing
 The website was tested on the following devices:
@@ -457,7 +462,6 @@ The website was tested on the following browsers:
 <img src="docs/user story testing/user-story-test-1-2-10.gif">
 </details>
 
-
 11. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -487,10 +491,11 @@ The website was tested on the following browsers:
 | 404 Page | Navigate to a URL that doesn't exist within the sites file structure | Serve a 404 page telling the user the page doesn't exist and present options to navigate back to the index page | Works as expected |
 | 404 Page Navigation Links | Navigate to a URL that doesn't exist within the sites file structure and find a way to navigate back to the home page | Read the 404 page and click on the Return Home link or any other internal link on the page to return to the index page | Works as expected |
 
-
 <details><summary>404 Page</summary>
 <img src="docs/user story testing/user-story-test-13.gif">
 </details>
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Bugs
 
@@ -502,6 +507,7 @@ The website was tested on the following browsers:
 | The mobile hamburger menu which is driven by pure HTML and CSS uses a checkbox and label element. The label element was empty which was producing an "A form label is present, but does not contain any content" error in the WAVE accessibility test. | This was corrected by adding text inside of a span element within the label element and then using a visually-hidden class and CSS to hide the text from rendering in the browser. Credit to [this Stack Overflow answer](https://stackoverflow.com/a/71369523/21643967) by [GrahamTheDev](https://stackoverflow.com/users/2702894/grahamthedev). |
 | Google Lighthouse flags that several images are not using explicit width and height values which is causing Cumulative Layout Shift which is leading to a slightly reduced performance score. | As I chose to use img srcset to serve different image sizes across various screen size breakpoints along with image lazy loading to improve performance and user experience it wasn't practical to set explicit img widths and heights. A performance score of 98 is a good result and will provide mobile users with a great user experience even on slow mobile connections. Potential workarounds to consider for the future are in [this article](https://dev.to/grahamthedev/quick-tips-how-to-fix-image-elements-do-not-have-explicit-width-and-height-in-page-speed-insights-lighthouse-3776) by [GrahamTheDev](https://stackoverflow.com/users/2702894/grahamthedev) and [this article](https://jakearchibald.com/2022/img-aspect-ratio/) by Jake Archibald(https://jakearchibald.com/). |
 
+[Back to Table of Contents](#table-of-contents)
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -523,6 +529,7 @@ You can clone the repository by following these steps:
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 7. Press Enter to create your local clone.
 
+[Back to Table of Contents](#table-of-contents)
 
 ## Credits
 Images and logos not referenced below are owned or created by the developer.
@@ -622,7 +629,7 @@ In order of appearance:
 - The method to achieve a circular frame around the index page's headshot image was adapted from the [Code Institute's Love Running Project](https://github.com/Code-Institute-Org/love-running-2.0).
 - CSS commenting styles were based on the [Principles of writing consistent, idiomatic CSS readme](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://github.com/necolas)
 
-
+[Back to Table of Contents](#table-of-contents)
 
 ## Acknowledgements
 I would like to thank the following people for their contributions to creating this project:
@@ -631,3 +638,5 @@ I would like to thank the following people for their contributions to creating t
 - The Code Institute team for an excellent experience and great support leading up to this first project
 - My wife for her patience and support while I sit in front of the computer for hours on end
 - My boys William and Oliver for helping me test the site and spot bugs!
+
+[Back to Table of Contents](#table-of-contents)
