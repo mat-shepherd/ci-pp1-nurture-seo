@@ -393,7 +393,7 @@ The website was tested on the following browsers:
 | Contact Section | Click Contact to scroll to contact form. If further contact information required click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact form and submit message or use email link in footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user story testing/user-story-test-5.gif">
+<img src="docs/user story testing/user-story-test-5-8.gif">
 </details>
 
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
@@ -412,39 +412,35 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer Contact Information Section | | |
-| | | |
-| | | |
+| Footer Contact Information Section | Click Contact to scroll to contact section. If within view, scroll to social links in footer (which is a typical location to find them), if not click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact information in footer and locate social media links and navigate to social profile | Works as expected |
 
-<details><summary>Screenshots</summary>
-
+<details><summary>Find Consultant's Social Media Details</summary>
+<img src="docs/user story testing/user-story-test-7-9.gif">
 </details>
+
 
 #### Existing Customers
 8. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in service section. | Scroll to contact form and submit message | Works as expected |
+| Contact Section | Click Contact to scroll to contact form. If further contact information required click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact form and submit message or use email link in footer | Works as expected |
 
 
-<details><summary>Screenshots</summary>
-
+<details><summary>Submit Message Through Contact Form</summary>
+<img src="docs/user story testing/user-story-test-5-8.gif">
 </details>
 
 9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Footer Contact Information Section | Click Contact to scroll to contact section. If within view, scroll to social links in footer (which is a typical location to find them), if not click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact information in footer and locate social media links and navigate to social profile | Works as expected |
 
 
-<details><summary>Screenshots</summary>
-
+<details><summary>Find Consultant's Social Media Details</summary>
+<img src="docs/user story testing/user-story-test-7-9.gif">
 </details>
 
 #### Site Owner 
