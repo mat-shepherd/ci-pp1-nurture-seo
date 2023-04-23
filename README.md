@@ -340,6 +340,14 @@ Google Lighthouse in Google's Chrome Developer Tools was used to test the perfor
 <img src="docs/lighthouse/index-lighthouse-desktop.webp">
 </details>
 
+### Thank You
+<details><summary>Mobile</summary>
+<img src="docs/lighthouse/404-lighthouse-mobile.webp">
+</details>
+<details><summary>Desktop</summary>
+<img src="docs/lighthouse/404-lighthouse-desktop.webp">
+</details>
+
 ### 404 
 <details><summary>Mobile</summary>
 <img src="docs/lighthouse/404-lighthouse-mobile.webp">
