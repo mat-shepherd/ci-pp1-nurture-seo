@@ -5,7 +5,7 @@
 
 [Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
-This is the website for an as of yet fictional SEO consultancy, but which is based upon SEO consulting I have done in the past. This is a responsive single page portfolio site which aims to provide prospective customers with details around my SEO services and experience and encourage them to reach out to me for further details. 
+This is the website for an as of yet fictional SEO consultancy, but which is based upon SEO consulting I have done in the past. This is a responsive three page portfolio site which aims to provide prospective customers with details around my SEO services and experience and encourage them to reach out to me for further details. 
 
 ## Table of Contents
 
@@ -156,6 +156,20 @@ For simplicity, the site consists of one primary page (plus a 404 page) and cont
 <img src="docs/wireframes/desktop-wireframe.webp">
 </details>
 
+### Thank You
+<details><summary>iPhone SE</summary>
+<img src="">
+</details>
+
+<details><summary>iPad Mini</summary>
+<img src="">
+</details>
+
+<details><summary>Desktop</summary>
+<img src="">
+</details>
+
+
 ### 404
 <details><summary>iPhone SE</summary>
 <img src="docs/wireframes/404-iphone-se-wireframe.webp">
@@ -201,7 +215,7 @@ For simplicity, the site consists of one primary page (plus a 404 page) and cont
 [Back to Table of Contents](#table-of-contents)
 
 ## Features
-The website consists of two pages in total, an index page and a 404 page. The index page contains 13 distinct features:
+The website consists of three pages in total, an index page, a thank you page,git add and a 404 page. The index page contains 13 distinct features:
 
 ### Existing Features
 
@@ -626,6 +640,9 @@ In order of appearance:
 - CSS Gradients in the service containers of the index page were achieved using the code output from the CSS Gradient tool at [cssgradient.io](https://cssgradient.io/)
 - The method to achieve a circular frame around the index page's headshot image was adapted from the [Code Institute's Love Running Project](https://github.com/Code-Institute-Org/love-running-2.0).
 - CSS commenting styles were based on the [Principles of writing consistent, idiomatic CSS readme](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://github.com/necolas)
+- The script used to parse form values from URL parameters on the thank-you.html page was adapted from the code written by [Yaphi Berhanu and James Hibbard of SitePoint](
+https://www.sitepoint.com/get-url-parameters-with-javascript/)
+- The function to output URL parameters from the above script was generated using [ChatGPT by OpenAI](https://openai.com/) and then adapted.
 
 [Back to Table of Contents](#table-of-contents)
 
