@@ -342,10 +342,10 @@ Google Lighthouse in Google's Chrome Developer Tools was used to test the perfor
 
 ### Thank You
 <details><summary>Mobile</summary>
-<img src="docs/lighthouse/404-lighthouse-mobile.webp">
+<img src="docs/lighthouse/thank-you-lighthouse-mobile.webp">
 </details>
 <details><summary>Desktop</summary>
-<img src="docs/lighthouse/404-lighthouse-desktop.webp">
+<img src="docs/lighthouse/thank-you-lighthouse-desktop.webp">
 </details>
 
 ### 404 
