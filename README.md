@@ -5,6 +5,8 @@
 
 [Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
+This is the website for an as of yet fictional SEO consultancy, but which is based upon SEO consulting I have done in the past. This is a responsive single page portfolio site which aims to provide prospective customers with details around my SEO services and experience and encourage them to reach out to me for further details. 
+
 ## Table of Contents
 
 1. [Project Goals](#project-goals)
