@@ -217,8 +217,9 @@ The website consists of two pages in total, an index page and a 404 page. The in
 ![Logo and navbar](docs/features/logo-nav-responsive.webp)
 
 ### Hero Section
-- containing a concise description and image to convey the business's purpose and value proposition and a call to action button that scrolls to the contact section
-- User stories covered: 1, 4, 5, 6, 7, 8, 9, 12
+- On the index page contains a concise description and image to convey the business's purpose and value proposition and a call to action button that scrolls to the contact section
+- on the 404 page displays a 404 page not found message, a 404 image, and a text directing the user to click on a "Return Home" button to navigate back to the index page
+- User stories covered: 1, 4, 5, 6, 7, 8, 9, 12, 13
 
 ![Hero Section](docs/features/hero-section.webp)
 
@@ -270,7 +271,7 @@ The website consists of two pages in total, an index page and a 404 page. The in
 
 ### Footer
 - which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owner's name and copyright notice, and a link to the site owner's GitHub page.
-- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
 
 ![Footer Section](docs/features/footer-section.webp)
 
