@@ -519,6 +519,9 @@ https://github.com/Code-Institute-Org/love-running-2.0
     padding: 0.5em 0.5em;
 }
 
+#form-message-values {
+    margin-bottom: 20px;
+}
 #form-message-values p {
     font-weight: bold;
 }
