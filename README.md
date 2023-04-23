@@ -88,7 +88,7 @@ I have divided my user stories into prospective customers, existing customers, a
 
 #### Site Owner 
 10. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
-11. As a site owner, I want users to see my most recent client testimonials to build trust and help convert more prospective customers.
+11. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
 12. As a site owner, I want users to be able to contact me directly through the website.
 13. As the site owner, I want to make sure users are directed back to the index page of the website and not use their browser's back button should they come across a 404 page not found error.
 
@@ -347,14 +347,14 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Services Section and Contact</summary>
-<img src="docs/user story testing/user-story-test-1-2.gif">
+<img src="docs/user story testing/user-story-test-1-2-10.gif">
 </details>
 
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button | Works as expected |
+| Services Section Services Cards | Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button | Works as expected |
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Service Descriptions and Contact</summary>
@@ -369,7 +369,7 @@ The website was tested on the following browsers:
 | Client Testimonials Section| Click Testimonials and/or Scroll to Client Testimonials Section| Scroll to Client Testimonials section to see one client testimonial | Works as expected |
 
 <details><summary>Find Details of Consultant's Customers</summary>
-<img src="docs/user story testing/user-story-test-3.gif">
+<img src="docs/user story testing/user-story-test-3-11.gif">
 </details>
 
 4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
@@ -429,7 +429,7 @@ The website was tested on the following browsers:
 
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user story testing/user-story-test-5-8.gif">
+<img src="docs/user story testing/user-story-test-5-8-12.gif">
 </details>
 
 9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
@@ -448,50 +448,45 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Services Section Services Cards | Click Services and/or Scroll to Services Section | Locate three services and click Request Pricing button | Works as expected |
+| Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
-<details><summary>Screenshots</summary>
-
+<details><summary>Find Service Descriptions and Contact</summary>
+<img src="docs/user story testing/user-story-test-1-2-10.gif">
 </details>
 
-11. As a site owner, I want users to see my most recent client testimonials to build trust and help convert more prospective customers.
+
+11. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Client Logos Section | Visible on page load even on most small screens otherwise can scroll to view | Client logos listed on page load | Works as expected |
+| Client Testimonials Section| Click Testimonials and/or Scroll to Client Testimonials Section| Scroll to Client Testimonials section to see one client testimonial | Works as expected |
 
-
-<details><summary>Screenshots</summary>
-
+<details><summary>Find Details of Consultant's Customers</summary>
+<img src="docs/user story testing/user-story-test-3-11.gif">
 </details>
 
 12. As a site owner, I want users to be able to contact me directly through the website.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in service section. | Scroll to contact form and submit message | Works as expected |
+| Contact Section | Click Contact to scroll to contact form. If further contact information required click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact form and submit message or use email link in footer | Works as expected |
 
-
-<details><summary>Screenshots</summary>
-
+<details><summary>Submit Message Through Contact Form</summary>
+<img src="docs/user story testing/user-story-test-5-8-12.gif">
 </details>
 
 13. As the site owner, I want to make sure users are directed back to the index page of the website and not use their browser's back button should they come across a 404 page not found error.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| | | |
-| | | |
-| | | |
+| 404 Page | Navigate to a URL that doesn't exist within the sites file structure | Serve a 404 page telling the user the page doesn't exist and present options to navigate back to the index page | Works as expected |
+| 404 Page Navigation Links | Navigate to a URL that doesn't exist within the sites file structure and find a way to navigate back to the home page | Read 404 page and click on Return Home link or any other internal link on the page to return to the index page | Works as expe cted |
 
 
-<details><summary>Screenshots</summary>
+<details><summary>404 Page</summary>
 
 </details>
 
