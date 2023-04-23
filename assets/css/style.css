@@ -6,7 +6,6 @@
    ========================================================================== */
   @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Oswald&display=swap');
 
-
 html, body { 
     font-family: "Noto Serif", sans-serif;
     font-weight: 300;
@@ -297,7 +296,6 @@ transform: rotate(-405deg);
     overflow: hidden;
 }
 
-
 /* Hero Section
    ========================================================================== */
 
@@ -449,7 +447,6 @@ https://github.com/Code-Institute-Org/love-running-2.0
 #connect-container iframe {
     width: 90%; /* Override width of Google map iframe and make responsive */
 }
-
 
 .social-link {
     display: inline-block;
