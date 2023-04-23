@@ -5,7 +5,7 @@
 
 [Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge)   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge)   ![GitHub top language](https://img.shields.io/github/languages/top/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge) ![W3C Validation](https://img.shields.io/w3c-validation/default?style=for-the-badge&targetUrl=https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
+![GitHub last commit](https://img.shields.io/github/last-commit/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge)   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge)   ![GitHub top language](https://img.shields.io/github/languages/top/mat-shepherd/ci-pp1-nurture-seo?style=for-the-badge) ![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
 ## Table of Contents
 
