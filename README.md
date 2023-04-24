@@ -307,6 +307,7 @@ The following features could be implemented in the future to provide users with 
 - A case studies page could be created to showcase the work carried out and the results achieved for some of the consultant's clients.
 - Individual case studies could be showcased through a case studies card feature on the index page. These showcased case studies could then link to the case studies page. With more features added to the index page this could warrant moving the contact and about sections to their own pages.
 - A blog feature could be implemented to allow the consultant to share knowledge and thought leadership by publishing blog articles on the site, which would then be displayed on a blog listing page. This would also be beneficial to the search engine visibility of the website across a range of relevant industry and user-goal-related keywords.
+- The contact form doesn't yet send the form values submitted as an email notification to the site owner. This can be achieved using JavaScript in the future.
 
 [Back to Table of Contents](#table-of-contents)
 
