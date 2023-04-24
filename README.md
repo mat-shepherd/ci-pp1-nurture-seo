@@ -226,7 +226,7 @@ The website consists of three pages in total, an index page, a thank you page, a
 - containing the business logo, a responsive navigation menu and a call to action button
 - navigation links scroll the user to the relevant section of the page
 - the Get a Quote call to action scrolls the user to the contact form
-- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
 
 #### Desktop & Larger Screens
 ![Logo and navbar](docs/features/logo-nav.webp)
@@ -237,7 +237,8 @@ The website consists of three pages in total, an index page, a thank you page, a
 ### Hero Section
 - On the index page contains a concise description and image to convey the business's purpose and value proposition and a call to action button that scrolls to the contact section
 - on the 404 page displays a 404 page not found message, a 404 image, and a text directing the user to click on a "Return Home" button to navigate back to the index page
-- User stories covered: 1, 4, 5, 6, 7, 8, 9, 12, 13
+- on the thank you page displays a form submission thank you message, a notice that this a test form, the form values the user submitted, and text directing the user to click on a "Return Home" button to navigate back to the index page
+- User stories covered: 1, 4, 5, 6, 9, 14
 
 ![Hero Section](docs/features/hero-section.webp)
 
@@ -254,13 +255,13 @@ The website consists of three pages in total, an index page, a thank you page, a
 
 ### Services Section
 - to provide brief descriptions of the services the consultant provides
-- User stories covered: 1, 2, 5, 6, 8, 10, 12
+- User stories covered: 1, 2, 5, 6, 9, 12, 14
 
 ![Services Section](docs/features/services-section.webp)
 
 ### Client Testimonials
 - to provide details of testimonials provided by the consultant's clients to increase trust in the consultant's experience and the results of services provided. This includes the client's logo, business name, testimonial, and client's name. 
-- User stories covered: 3, 4, 11
+- User stories covered: 3, 4, 13
 
 ![Client Testimonials](docs/features/client-testimonials-section.webp)
 
@@ -277,19 +278,19 @@ The website consists of three pages in total, an index page, a thank you page, a
 
 ### Contact Form 
 - a contact form to allow the visitor to contact the consultant with questions or to request a quote.
-- User stories covered: 5, 6, 8, 12
+- User stories covered: 5, 6, 9, 14
 
 ![Contact Form](docs/features/contact-form.webp)
 
 ### Google map 
 - a Google map displaying the consultant's location allowing the visitor to get the consultant's address, view a map of the location and directions to their location.
-- User stories covered: 6, 8
+- User stories covered: 6, 9
 
 ![Google map](docs/features/google-map.webp)
 
 ### Footer
 - which displays the business logo, business tagline, navigation menu, call to action button, navigation links, contact information, social media links, the site owner's name and copyright notice, and a link to the site owner's GitHub page.
-- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+- User stories covered: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
 
 ![Footer Section](docs/features/footer-section.webp)
 
@@ -303,7 +304,7 @@ The website consists of three pages in total, an index page, a thank you page, a
 ### 404 Page
 - which displays a 404 page not found message, a 404 image, and a text directing the user to click on a "Return Home" button to navigate back to the index page. 
 - the header and footer navigation remains consistent with the index page design and all internal navigation links on this page will direct the user back to the index page.
-- User stories covered: 13
+- User stories covered: 15
 
 ![Footer Section](docs/features/404-page.webp)
 
