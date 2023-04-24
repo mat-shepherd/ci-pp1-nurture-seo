@@ -129,11 +129,11 @@ Fonts are imported using the [Google Fonts](https://fonts.google.com/) library.
 The logo image uses Nunito Sans Bold as this was the closest complimentary font available in the [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) tool.
 
 ### Structure
-The page is structured in an easy-to-navigate z-shaped pattern allowing visitors to quickly consume key information while scanning the page from left to right. Starting at the  top left of the page the visitor will notice the site logo followed by the navigation menu and a Get a Quote call to action button. This allows the user to quickly understand the name of the business, how to navigate the site, and how to get in touch with the site owner to get a quote.
+The pages are structured in an easy-to-navigate z-shaped pattern allowing visitors to quickly consume key information while scanning the page from left to right. Starting at the  top left of the page the visitor will notice the site logo followed by the navigation menu and a Get a Quote call to action button. This allows the user to quickly understand the name of the business, how to navigate the site, and how to get in touch with the site owner to get a quote.
 
-For simplicity, the site consists of one primary page (plus a 404 page) and contains 10 distinct sections:
+For simplicity, the site consists of one primary page and two helper pages, a 404 page and a thank you page. There are 10 distinct sections used across the site's pages:
 - A header section containing the business logo, a responsive navigation menu and a call to action button
-- A hero section containing a concise description and image to convey the business's purpose and value proposition and a call to action button
+- A hero section containing a concise description and image to convey the business's purpose and value proposition and a call to action button. On the 404 and thank you pages this section is used to convey feedback to the user and provide them with navigation options
 - A client logos section to showcase the consultant's existing clients and build trust with the visitor
 - A parallax section to provide a visual break in the content that displays imagery related to growth
 - A services section to provide brief descriptions of the services the consultant provides
