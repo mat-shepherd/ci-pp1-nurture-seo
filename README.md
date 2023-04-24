@@ -5,7 +5,7 @@
 
 [Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
-This is the website for an as of yet fictional SEO consultancy, but which is based upon SEO consulting I have done in the past. This is a responsive three page portfolio site which aims to provide prospective customers with details around my SEO services and experience and encourage them to reach out to me for further details. 
+This is the website for an as of yet fictional SEO consultancy, but which is based upon SEO consulting I have done in the past. This is a responsive three page portfolio site which aims to provide prospective customers with details around my SEO services and experience, and encourage them to reach out to me for further details. 
 
 ## Table of Contents
 
@@ -384,8 +384,8 @@ The website was tested on the following browsers:
 
 <details><summary>Find Services Section and Contact</summary>
 <img src="docs/user-story-testing/user-story-test-1-2-12.gif">
-</details>
-<br>
+</details>  
+
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -395,8 +395,8 @@ The website was tested on the following browsers:
 
 <details><summary>Find Service Descriptions and Contact</summary>
 <img src="docs/user-story-testing/user-story-test-1-2-12.gif">
-</details>
-<br>
+</details>  
+
 3. As a prospective customer, I want to see details of the consultant's customers so I can feel confident that the consultant can deliver results for a business like mine.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
