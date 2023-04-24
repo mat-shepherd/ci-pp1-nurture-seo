@@ -5,7 +5,7 @@
 
 [Live webpage](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
-This is the website for an as of yet fictional SEO consultancy, but which is based upon SEO consulting I have done in the past. This is a responsive three page portfolio site which aims to provide prospective customers with details around my SEO services and experience, and encourage them to reach out to me for further details. 
+This is the website for an as-of-yet fictional SEO consultancy, but it is based on SEO consulting I have done in the past. This is a responsive three-page portfolio site which aims to provide prospective customers with details about my SEO services and experience and encourage them to reach out to me for further details. 
 
 ## Table of Contents
 
@@ -66,7 +66,7 @@ The goals of this website include:
 - Sales managers of medium to large-sized businesses in the UK, Ireland and North America
 
 ### User Requirements and Expectations
-- An intuitive and easy to locate navigation system regardless of screen size
+- An intuitive and easy-to-locate navigation system regardless of screen size
 - Ability to quickly find relevant information on the business and its services
 - Quick and easy ways to contact the business
 - A visually appealing and intuitively structured website that works well and is easy to read on all screen sizes
@@ -376,7 +376,7 @@ The website was tested on the following devices:
 - Samsung Galaxy S10
 
 
-In addition, the website was tested using Google Chrome Developer Tools Device Toggling option for all available device options.
+In addition, the website was tested using Google Chrome Developer Tools simulating all available device options.
 
 ### Browser compatibility
 The website was tested on the following browsers:
@@ -390,7 +390,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services Section Services Cards| Click Services and/or Scroll to Services Section | Locate three services and click a Request Pricing button | Works as expected |
+| Services Section Services Cards| Click Services and/or Scroll to the Services Section | Locate three services and click a Request Pricing button | Works as expected |
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Services Section and Contact</summary>
@@ -401,7 +401,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Services Section Services Cards | Click Services and/or Scroll to Services Section | Locate three services and click a Request Pricing button | Works as expected |
+| Services Section Services Cards | Click Services and/or Scroll to the Services Section | Locate three services and click a Request Pricing button | Works as expected |
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Service Descriptions and Contact</summary>
@@ -413,7 +413,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Client Logos Section | Visible on page load even on most small screens otherwise can scroll to view | Client logos listed on page load | Works as expected |
-| Client Testimonials Section| Click Testimonials and/or Scroll to Client Testimonials Section| Scroll to Client Testimonials section to see one client testimonial | Works as expected |
+| Client Testimonials Section| Click Testimonials and/or Scroll to the Client Testimonials section| Scroll to the Client Testimonials section to see one client testimonial | Works as expected |
 
 <details><summary>Find Details of Consultant's Customers</summary>
 <img src="docs/user-story-testing/user-story-test-3-13.gif">
@@ -435,7 +435,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to contact form and submit message | Works as expected |
+| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to the contact form and submit a message | Works as expected |
 | Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in the footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
@@ -457,7 +457,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to contact form and submit message | Works as expected |
+| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to the contact form and submit a message | Works as expected |
 | Thank You Page | Submit a contact form, thank you page loads | Read the Thank You page to see confirmation of details submitted | Works as expected |
 | Thank You Page Navigation Links | Submit a contact form, thank you page loads, and then find a way to navigate back to the home page | Read the Thank You page to see confirmation of details submitted and then click on the Return Home link or any other internal link on the page to return to the index page | Works as expected |
 
@@ -481,7 +481,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Request Pricing in the Service section. | Scroll to the contact form and submit a message | Works as expected |
-| Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in footer | Works as expected |
+| Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in the footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
 <img src="docs/user-story-testing/user-story-test-5-9-14.gif">
@@ -491,7 +491,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to contact form and submit message | Works as expected |
+| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to the contact form and submit a message | Works as expected |
 | Thank You Page | Submit a contact form, thank you page loads | Read the Thank You page to see confirmation of details submitted | Works as expected |
 | Thank You Page Navigation Links | Submit a contact form, thank you page loads, and then find a way to navigate back to the home page | Read the Thank You page to see confirmation of details submitted and then click on the Return Home link or any other internal link on the page to return to the index page | Works as expected |
 
@@ -537,7 +537,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in the Hero Section, or Requesting Pricing in the Service section. | Scroll to the contact form and submit a message | Works as expected |
-| Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in footer | Works as expected |
+| Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in the footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
 <img src="docs/user-story-testing/user-story-test-5-9-14.gif">
@@ -552,8 +552,8 @@ The website was tested on the following browsers:
 
 <details><summary>404 Page</summary>
 <img src="docs/user-story-testing/user-story-test-15.gif">
-</details>
-<br>
+</details><br>
+
 [Back to Table of Contents](#table-of-contents)
 
 ## Bugs
