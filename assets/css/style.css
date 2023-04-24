@@ -675,148 +675,148 @@ a[href^="mailto:"]:link, a[href^="mailto:"]:visited, a[href^="mailto:"]:active {
 
 @media only screen and (min-width: 600px) {
 
-/* Tablet - General Layout
-   ========================================================================== */
+    /* Tablet - General Layout
+    ========================================================================== */
 
-header, section:not([id*="parallax"]) {
-    width: 85%;
-    margin: auto;
-    text-align: center;
-}
+    header, section:not([id*="parallax"]) {
+        width: 85%;
+        margin: auto;
+        text-align: center;
+    }
 
-div[id^="parallax"] {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;  
-}
+    div[id^="parallax"] {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;  
+    }
 
-section {
-    display: flex;
-    flex-direction: row;
-    justify-content: center; 
-    column-gap: 3.5em;
-}
+    section {
+        display: flex;
+        flex-direction: row;
+        justify-content: center; 
+        column-gap: 3.5em;
+    }
 
-#about {
-    column-gap: 1.5em;
-}
+    #about {
+        column-gap: 1.5em;
+    }
 
-#services {
-    column-gap: 2.5em;
-    row-gap: 3.5em;
-}
+    #services {
+        column-gap: 2.5em;
+        row-gap: 3.5em;
+    }
 
-header {
-    padding: 0;
-}
+    header {
+        padding: 0;
+    }
 
-section {
-    padding: 3.5em 0;
-}
+    section {
+        padding: 3.5em 0;
+    }
 
-#connect-container {
-    padding-bottom: 3.5em;
-}
+    #connect-container {
+        padding-bottom: 3.5em;
+    }
 
-#connect-container iframe {
-    height: 550px;
-}
+    #connect-container iframe {
+        height: 550px;
+    }
 
-footer {
-    padding: 3.5em 0 1.5em 0;
-}
+    footer {
+        padding: 3.5em 0 1.5em 0;
+    }
 
-#hero {
-    border-bottom: none;
-}
+    #hero {
+        border-bottom: none;
+    }
 
-.mobile-divider {
-    display: none;
-}
+    .mobile-divider {
+        display: none;
+    }
 
-/* Tablet - Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths
-   ========================================================================== */
+    /* Tablet - Hero, Testimonial, Contact, Footer Divs Multi Column Section Widths
+    ========================================================================== */
 
-#hero-text-container, #hero > div, #about-container, #about-image-outer {
-    flex: 1 0 40%;
-    margin: auto;
-}
+    #hero-text-container, #hero > div, #about-container, #about-image-outer {
+        flex: 1 0 40%;
+        margin: auto;
+    }
 
-#hero-image {
-    text-align: center;
-}
+    #hero-image {
+        text-align: center;
+    }
 
-#hero-text-container, #hero-text-container, #about-container, #about-image-outer {
-    text-align: left;
-}
+    #hero-text-container, #hero-text-container, #about-container, #about-image-outer {
+        text-align: left;
+    }
 
-#contact {
-    flex-direction: row-reverse;
-    justify-content: center;
-    align-items: flex-start;
-    flex-wrap: wrap;
-}
+    #contact {
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: wrap;
+    }
 
-#connect-container, .form-container {
-    text-align: left;
-    margin: 0 auto;
-    align-items: flex-start;
-}
+    #connect-container, .form-container {
+        text-align: left;
+        margin: 0 auto;
+        align-items: flex-start;
+    }
 
-.form-container {
-    flex: 0.75 0 280px;
-    padding: 2em;
-}
+    .form-container {
+        flex: 0.75 0 280px;
+        padding: 2em;
+    }
 
-#connect-container {
-    flex: 1 1 50%;
-    text-align: center;
-}
+    #connect-container {
+        flex: 1 1 50%;
+        text-align: center;
+    }
 
-/* Tablet - Client Logos & Testimonial Single Column Section Widths
-   ========================================================================== */
+    /* Tablet - Client Logos & Testimonial Single Column Section Widths
+    ========================================================================== */
 
-#client-logos-inner, .testimonials-container {
-    width: 100%;
-}
+    #client-logos-inner, .testimonials-container {
+        width: 100%;
+    }
 
-/* Tablet - Service Section
-   ========================================================================== */
-#service2 {
-    margin: 0;
-}
+    /* Tablet - Service Section
+    ========================================================================== */
+    #service2 {
+        margin: 0;
+    }
 
-/* Tablet - About Section 
-   ========================================================================== */
-#about-container, #about-image-outer {
-    width: 40%;
-}
+    /* Tablet - About Section 
+    ========================================================================== */
+    #about-container, #about-image-outer {
+        width: 40%;
+    }
 
-#about-image-container {
-    background: url('../images/matthew-shepherd.webp') no-repeat center center;    
-    width: 280px;
-    height: 280px;
-}
+    #about-image-container {
+        background: url('../images/matthew-shepherd.webp') no-repeat center center;    
+        width: 280px;
+        height: 280px;
+    }
 
-#about-image-bg {
-    background-size: auto;
-}
+    #about-image-bg {
+        background-size: auto;
+    }
 
-/* Tablet - Footer Section 
-   ========================================================================== */
+    /* Tablet - Footer Section 
+    ========================================================================== */
 
-#footer-bottom, #footer-top {
-    width: 85%;
-}
+    #footer-bottom, #footer-top {
+        width: 85%;
+    }
 
-#connect-right-block {
-    padding-top: 1.5em;
-}
+    #connect-right-block {
+        padding-top: 1.5em;
+    }
 
-#links-left-block {
-    flex: 0;
-}
+    #links-left-block {
+        flex: 0;
+    }
 
 }
 
@@ -826,68 +826,68 @@ footer {
 
 @media only screen and (min-width: 768px) {
 
-header {
-    padding: 0;
-}
+    header {
+        padding: 0;
+    }
 
-section {
-    padding: 3.5em 0;
-}
+    section {
+        padding: 3.5em 0;
+    }
 
-#client-logos-container {
-    padding-bottom: 3.5em;
-}
+    #client-logos-container {
+        padding-bottom: 3.5em;
+    }
 
-#contact, #about {
-    column-gap: 3.5em;
-}
+    #contact, #about {
+        column-gap: 3.5em;
+    }
 
-#connect-container {
-    padding-bottom: 3.5em;
-}
+    #connect-container {
+        padding-bottom: 3.5em;
+    }
 
-#links-right-block {
-    min-width: 430px;
-}
+    #links-right-block {
+        min-width: 430px;
+    }
 
-.social-link a:link, .social-link a:visited, .social-link a:active {
-    font-size: 1em;
-}
+    .social-link a:link, .social-link a:visited, .social-link a:active {
+        font-size: 1em;
+    }
 
-#client-logos-container, #footer-links, #footer-connect {
-    border-top: none;
-}
+    #client-logos-container, #footer-links, #footer-connect {
+        border-top: none;
+    }
 
-.testimonials-container blockquote {
-    width: 75%;
-}
+    .testimonials-container blockquote {
+        width: 75%;
+    }
 
-#footer-links li {
-    display: inline;
-    margin-right: 20px;
-}
+    #footer-links li {
+        display: inline;
+        margin-right: 20px;
+    }
 
-#logo-tagline, #links-right-block {
-    margin-bottom: 20px;
-}
+    #logo-tagline, #links-right-block {
+        margin-bottom: 20px;
+    }
 
-#links-right-block, #connect-right-block {
-    text-align: right;
-}
+    #links-right-block, #connect-right-block {
+        text-align: right;
+    }
 
-#footer-bottom {
-    width: 100%;
-}    
+    #footer-bottom {
+        width: 100%;
+    }    
 
-/* Small Screens and Laptop Styles - Fonts
-   ========================================================================== */
-h1 {
-    font-size: 1.75em;
-}
+    /* Small Screens and Laptop Styles - Fonts
+    ========================================================================== */
+    h1 {
+        font-size: 1.75em;
+    }
 
-h2 {
-    font-size: 1.5em;   
-}
+    h2 {
+        font-size: 1.5em;   
+    }
     
 }
 
@@ -897,128 +897,128 @@ h2 {
 
 @media only screen and (min-width: 1024px) {
 
-/* Desktop and Landscape Tablet Styles - Navigation Menu
-   ========================================================================== */
+    /* Desktop and Landscape Tablet Styles - Navigation Menu
+    ========================================================================== */
 
-header {
-    padding: 3.5em 0;
-}
+    header {
+        padding: 3.5em 0;
+    }
 
-.menu-items {
-    display: flex;
-    flex-direction: row;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    align-items: center;
-}
+    .menu-items {
+        display: flex;
+        flex-direction: row;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+    }
 
-.menu-button-container {
-    display: none;
-}
+    .menu-button-container {
+        display: none;
+    }
 
-.menu-items > li:not(:last-child) {
-    border-bottom: 1px solid #444;
-}
-.menu-items > li {
-    margin: 0 1rem;
-    overflow: hidden;
-}
+    .menu-items > li:not(:last-child) {
+        border-bottom: 1px solid #444;
+    }
+    .menu-items > li {
+        margin: 0 1rem;
+        overflow: hidden;
+    }
 
-#menu-toggle ~ .menu-items li {
-    display: list-item;
-    height:auto;
-    margin: 0;
-    padding: 0.5em;
-    width: auto;
-    color: #fff;
-    background-color: transparent;
-}
+    #menu-toggle ~ .menu-items li {
+        display: list-item;
+        height:auto;
+        margin: 0;
+        padding: 0.5em;
+        width: auto;
+        color: #fff;
+        background-color: transparent;
+    }
 
-/* Desktop and Landscape Tablet Styles - Section Styles
-   ========================================================================== */
+    /* Desktop and Landscape Tablet Styles - Section Styles
+    ========================================================================== */
 
-#client-logos-container {
-    padding: 0em 10em 3.5em 10em;
-}
+    #client-logos-container {
+        padding: 0em 10em 3.5em 10em;
+    }
 
-#services {
-    padding: 3.5em 25em; /* Reduce available width to stop service containers growing too wide */
-    flex-wrap: nowrap;    
-}
+    #services {
+        padding: 3.5em 25em; /* Reduce available width to stop service containers growing too wide */
+        flex-wrap: nowrap;    
+    }
 
-.service-container {
-    flex: 1 0 320px;
-}
+    .service-container {
+        flex: 1 0 320px;
+    }
 
-#footer-top {
-    flex-wrap: nowrap;
-    justify-content: space-between;    
-}
+    #footer-top {
+        flex-wrap: nowrap;
+        justify-content: space-between;    
+    }
 
-#footer-nav {
-    row-gap: 40%;
-}
+    #footer-nav {
+        row-gap: 40%;
+    }
 
-#footer-links, #footer-connect {
-    flex-wrap: nowrap;
-    padding-bottom: 1em;
-}
+    #footer-links, #footer-connect {
+        flex-wrap: nowrap;
+        padding-bottom: 1em;
+    }
 
-#logo-tagline {
-    flex: 0 1 30%;
-}
+    #logo-tagline {
+        flex: 0 1 30%;
+    }
 
-#footer-nav {
-    flex: 0 1 70%;    
-}
+    #footer-nav {
+        flex: 0 1 70%;    
+    }
 
-#logo-tagline, #links-right-block {
-    margin-bottom: 0px;
-}
+    #logo-tagline, #links-right-block {
+        margin-bottom: 0px;
+    }
 
-#links-left-block {
-    flex: 1 1 33.33%;
-}
+    #links-left-block {
+        flex: 1 1 33.33%;
+    }
 
-#links-right-block {
-    text-align: right;    
-}
+    #links-right-block {
+        text-align: right;    
+    }
 
-#footer-connect {
-    justify-content: flex-end;
-}
+    #footer-connect {
+        justify-content: flex-end;
+    }
 
-#connect-container {
-    padding-bottom: 0em;
-}
+    #connect-container {
+        padding-bottom: 0em;
+    }
 
-#connect-left-block, #connect-middle-block {
-    flex: 1 1 40%;
-}
+    #connect-left-block, #connect-middle-block {
+        flex: 1 1 40%;
+    }
 
-#connect-middle-block {
-    padding: 0.5em 1.5em 0 0;
-}
+    #connect-middle-block {
+        padding: 0.5em 1.5em 0 0;
+    }
 
-#connect-right-block {
-    min-width: 350px;
-    padding: 0 0 0 1em;
-}
+    #connect-right-block {
+        min-width: 350px;
+        padding: 0 0 0 1em;
+    }
 
-#connect-middle-block, #connect-right-block {
-    text-align: left;
-}
+    #connect-middle-block, #connect-right-block {
+        text-align: left;
+    }
 
-/* Desktop and Landscape Tablet Styles - Fonts
-   ========================================================================== */
+    /* Desktop and Landscape Tablet Styles - Fonts
+    ========================================================================== */
 
-h1 {
-    font-size: 3em;
-}
+    h1 {
+        font-size: 3em;
+    }
 
-h2 {
-    font-size: 2em;   
-}
+    h2 {
+        font-size: 2em;   
+    }
    
 }
