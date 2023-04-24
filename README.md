@@ -611,7 +611,7 @@ In order of appearance:
     <img src="docs/credits/social-media-6261537_1920.webp">
     </details>
 
-### Index Page
+### Index Page, Thank You Page & 404 Page
 - [HubSpot Brand Kit Generator](https://www.hubspot.com/brand-kit-generator/) by [HubSpot](https://www.hubspot.com/)
     <details><summary>Logo</summary>
     <img src="docs/credits/logo-variations.webp">
@@ -676,16 +676,17 @@ In order of appearance:
 - CSS Gradients in the service containers of the index page were achieved using the code output from the CSS Gradient tool at [cssgradient.io](https://cssgradient.io/)
 - The method to achieve a circular frame around the index page's headshot image was adapted from the [Code Institute's Love Running Project](https://github.com/Code-Institute-Org/love-running-2.0).
 - CSS commenting styles were based on the [Principles of writing consistent, idiomatic CSS readme](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://github.com/necolas)
-- The script used to parse form values from URL parameters on the thank-you.html page was adapted from the code written by [Yaphi Berhanu and James Hibbard of SitePoint](
+- The JavaScript used to parse form values from URL parameters on the thank-you.html page was adapted from the code written by [Yaphi Berhanu and James Hibbard of SitePoint](
 https://www.sitepoint.com/get-url-parameters-with-javascript/)
-- The function to output URL parameters from the above script was generated using [ChatGPT by OpenAI](https://openai.com/) and then adapted.
+- The JavaScript function to output URL parameters from the above script was generated using [ChatGPT by OpenAI](https://openai.com/) and then adapted.
 
 [Back to Table of Contents](#table-of-contents)
 
 ## Acknowledgements
 I would like to thank the following people for their contributions to creating this project:
 - My mentor Mo Shami for your support, guidance, and encouragement 
-- Alan Bushell, Benjamin Riordan, and the February 2023 Student Cohort for their knowledge sharing, advice, and camaraderie during our weekly standup calls and in Slack
+- Alan Bushelland the February 2023 Student Cohort for their knowledge sharing, advice, and camaraderie during our weekly standup calls and in Slack
+- Benjamin Riordan for reviewing my project and providing great constructive feedback
 - The Code Institute team for an excellent experience and great support leading up to this first project
 - My wife for her patience and support while I sit in front of the computer for hours on end
 - My boys William and Oliver for helping me test the site and spot bugs!
