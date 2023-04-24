@@ -84,17 +84,19 @@ I have divided my user stories into prospective customers, existing customers, a
 4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
 5. As a prospective customer, I want to submit questions or details of my project through the website so I can connect with the consultant to discuss my project and receive answers, set up, a call or receive a project proposal.
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
-7. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content and see what other social media users say about them.
+7. As a prospective customer, I want to see a confirmation that my contact form has been submitted and be able to navigate back to the main site.
+8. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content and see what other social media users say about them.
 
 #### Existing Customers
-8. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
-9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
+9. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
+10. As an existing customer, I want to see a confirmation that my contact form has been submitted and be able to navigate back to the main site.
+11. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
 
 #### Site Owner 
-10. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
-11. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
-12. As a site owner, I want users to be able to contact me directly through the website.
-13. As the site owner, I want to make sure users are directed back to the index page of the website and do not use their browser's back button should they come across a 404 page not found error.
+12. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
+13. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
+14. As a site owner, I want users to be able to contact me directly through the website.
+15. As the site owner, I want to make sure users are directed back to the index page of the website and do not use their browser's back button should they come across a 404 page not found error.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -381,7 +383,7 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Services Section and Contact</summary>
-<img src="docs/user-story-testing/user-story-test-1-2-10.gif">
+<img src="docs/user-story-testing/user-story-test-1-2-12.gif">
 </details>
 <br>
 2. As a prospective customer, I want to see a description of each service so I can understand the services provided.
@@ -392,7 +394,7 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the contact section at bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Service Descriptions and Contact</summary>
-<img src="docs/user-story-testing/user-story-test-1-2-10.gif">
+<img src="docs/user-story-testing/user-story-test-1-2-12.gif">
 </details>
 <br>
 3. As a prospective customer, I want to see details of the consultant's customers so I can feel confident that the consultant can deliver results for a business like mine.
@@ -403,7 +405,7 @@ The website was tested on the following browsers:
 | Client Testimonials Section| Click Testimonials and/or Scroll to Client Testimonials Section| Scroll to Client Testimonials section to see one client testimonial | Works as expected |
 
 <details><summary>Find Details of Consultant's Customers</summary>
-<img src="docs/user-story-testing/user-story-test-3-11.gif">
+<img src="docs/user-story-testing/user-story-test-3-13.gif">
 </details>
 <br>
 4. As a prospective customer, I want to see details of the consultant's work experience and expertise to understand if they have the expertise required to handle my project.
@@ -426,7 +428,7 @@ The website was tested on the following browsers:
 | Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in the footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user-story-testing/user-story-test-5-8-12.gif">
+<img src="docs/user-story-testing/user-story-test-5-9-14.gif">
 </details>
 <br>
 6. As a prospective customer, I want to locate the consultant's contact details so I can see where they are located and phone or email them about my project and any questions I may have.
@@ -440,18 +442,30 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-test-6.gif">
 </details>
 <br>
-7. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content and see what other social media users say about them.
+7. As a prospective customer, I want to see a confirmation that my contact form has been submitted and be able to navigate back to the main site.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to contact form and submit message | Works as expected |
+| Thank You Page | Submit a contact form, thank you page loads | Read the Thank You page to see confirmation of details submitted | Works as expected |
+| Thank You Page Navigation Links | Submit a contact form, thank you page loads, and then find a way to navigate back to the home page | Read the Thank You page to see confirmation of details submitted and then click on the Return Home link or any other internal link on the page to return to the index page | Works as expected |
+
+<details><summary>Thank You Page</summary>
+<img src="docs/user-story-testing/user-story-test-7-10.gif">
+</details>
+<br>
+8. As a prospective customer, I want to locate the consultant's social media details so I can see if they are thought leaders in the space, learn from their content and see what other social media users say about them.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer Contact Information Section | Click Contact to scroll to the Contact section. If within view, scroll to the social links in the footer (which is a typical location to find them), if not click the link beneath the form submit button to scroll to contact information in the footer | Scroll to contact information in the footer and locate the social media links and navigate to a social profile | Works as expected |
 
 <details><summary>Find Consultant's Social Media Details</summary>
-<img src="docs/user-story-testing/user-story-test-7-9.gif">
+<img src="docs/user-story-testing/user-story-test-8-11.gif">
 </details>
 <br>
 #### Existing Customers
-8. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
+9. As an existing customer, I want to locate the consultant's contact details or reach out to them directly through the website so I can request assistance or enquire about additional services.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -459,21 +473,33 @@ The website was tested on the following browsers:
 | Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user-story-testing/user-story-test-5-8-12.gif">
+<img src="docs/user-story-testing/user-story-test-5-9-14.gif">
 </details>
 <br>
-9. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
+10. As an existing customer, I want to see a confirmation that my contact form has been submitted and be able to navigate back to the main site.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Click Contact or Get a Quote in the navigation menu, Ask Me How in Hero Section, or Requesting Pricing in the Service section | Scroll to contact form and submit message | Works as expected |
+| Thank You Page | Submit a contact form, thank you page loads | Read the Thank You page to see confirmation of details submitted | Works as expected |
+| Thank You Page Navigation Links | Submit a contact form, thank you page loads, and then find a way to navigate back to the home page | Read the Thank You page to see confirmation of details submitted and then click on the Return Home link or any other internal link on the page to return to the index page | Works as expected |
+
+<details><summary>Thank You Page</summary>
+<img src="docs/user-story-testing/user-story-test-7-10.gif">
+</details>
+<br>
+11. As an existing customer, I want to locate the consultant's social media details so I can follow them and learn about SEO industry trends and tips and tricks to improve my site's performance.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer Contact Information Section | Click Contact to scroll to the Contact section. If within view, scroll to the social links in the footer (which is a typical location to find them), if not click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact information in the footer and locate the social media links and navigate to a social profile | Works as expected |
 
 <details><summary>Find Consultant's Social Media Details</summary>
-<img src="docs/user-story-testing/user-story-test-7-9.gif">
+<img src="docs/user-story-testing/user-story-test-8-11.gif">
 </details>
 <br>
 #### Site Owner 
-10. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
+12. As a site owner, I want users to be able to see a list of my services and quickly contact me to request pricing.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -481,10 +507,10 @@ The website was tested on the following browsers:
 | Contact Section Contact Form | Click Request pricing on Sevice Card, CTA buttons on the page, or scroll to the Contact section at the bottom of the page | Locate the contact form and send a message to ask about services provided | Works as expected |
 
 <details><summary>Find Service Descriptions and Contact</summary>
-<img src="docs/user-story-testing/user-story-test-1-2-10.gif">
+<img src="docs/user-story-testing/user-story-test-1-2-12.gif">
 </details>
 <br>
-11. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
+13. As a site owner, I want users to see a list of my most recent clients and client testimonials to build trust and help convert more prospective customers.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -492,10 +518,10 @@ The website was tested on the following browsers:
 | Client Testimonials Section| Click Testimonials and/or scroll to the Client Testimonials Section| Scroll to the Client Testimonials section to see one client testimonial | Works as expected |
 
 <details><summary>Find Details of Consultant's Customers</summary>
-<img src="docs/user-story-testing/user-story-test-3-11.gif">
+<img src="docs/user-story-testing/user-story-test-3-13.gif">
 </details>
 <br>
-12. As a site owner, I want users to be able to contact me directly through the website.
+14. As a site owner, I want users to be able to contact me directly through the website.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -503,10 +529,10 @@ The website was tested on the following browsers:
 | Contact Section | Click Contact to scroll to the contact form. If further contact information is required, click the link beneath the form submit button to scroll to the contact information in the footer | Scroll to the contact form and submit a message or use the email link in footer | Works as expected |
 
 <details><summary>Submit Message Through Contact Form</summary>
-<img src="docs/user-story-testing/user-story-test-5-8-12.gif">
+<img src="docs/user-story-testing/user-story-test-5-9-14.gif">
 </details>
 <br>
-13. As the site owner, I want to make sure users are directed back to the index page of the website and do not use their browser's back button should they come across a 404 page not found error.
+15. As the site owner, I want to make sure users are directed back to the index page of the website and do not use their browser's back button should they come across a 404 page not found error.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -514,7 +540,7 @@ The website was tested on the following browsers:
 | 404 Page Navigation Links | Navigate to a URL that doesn't exist within the sites file structure and find a way to navigate back to the home page | Read the 404 page and click on the Return Home link or any other internal link on the page to return to the index page | Works as expected |
 
 <details><summary>404 Page</summary>
-<img src="docs/user-story-testing/user-story-test-13.gif">
+<img src="docs/user-story-testing/user-story-test-15.gif">
 </details>
 <br>
 [Back to Table of Contents](#table-of-contents)
