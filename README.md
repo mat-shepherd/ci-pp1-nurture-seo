@@ -158,15 +158,15 @@ For simplicity, the site consists of one primary page (plus a 404 page) and cont
 
 ### Thank You
 <details><summary>iPhone SE</summary>
-<img src="">
+<img src="docs/wireframes/thank-you-iphone-se-wireframe.webp">
 </details>
 
 <details><summary>iPad Mini</summary>
-<img src="">
+<img src="docs/wireframes/thank-you-ipad-mini-wireframe.webp">
 </details>
 
 <details><summary>Desktop</summary>
-<img src="">
+<img src="docs/wireframes/thank-you-desktop-wireframe.webp">
 </details>
 
 
