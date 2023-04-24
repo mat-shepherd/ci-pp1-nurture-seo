@@ -238,7 +238,7 @@ The website consists of three pages in total, an index page, a thank you page, a
 - On the index page contains a concise description and image to convey the business's purpose and value proposition and a call to action button that scrolls to the contact section
 - on the 404 page displays a 404 page not found message, a 404 image, and a text directing the user to click on a "Return Home" button to navigate back to the index page
 - on the thank you page displays a form submission thank you message, a notice that this a test form, the form values the user submitted, and text directing the user to click on a "Return Home" button to navigate back to the index page
-- User stories covered: 1, 4, 5, 6, 9, 14
+- User stories covered: 1, 4, 5, 6, 9, 14, 15
 
 ![Hero Section](docs/features/hero-section.webp)
 
