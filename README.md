@@ -217,7 +217,7 @@ For simplicity, the site consists of one primary page (plus a 404 page) and cont
 [Back to Table of Contents](#table-of-contents)
 
 ## Features
-The website consists of three pages in total, an index page, a thank you page,git add and a 404 page. The index page contains 13 distinct features:
+The website consists of three pages in total, an index page, a thank you page, and a 404 page. The site's pages contain 13 distinct features:
 
 ### Existing Features
 
@@ -293,10 +293,19 @@ The website consists of three pages in total, an index page, a thank you page,gi
 
 ![Footer Section](docs/features/footer-section.webp)
 
+### Thank You Page
+- which displays a form submission thank you message, a notice that this a test form, the form values the user submitted, and text directing the user to click on a "Return Home" button to navigate back to the index page. 
+- the header and footer navigation remains consistent with the index page design and all internal navigation links on this page will direct the user back to the index page.
+- User stories covered: 7, 10
+
+![Footer Section](docs/features/thank-you-page.webp)
+
 ### 404 Page
 - which displays a 404 page not found message, a 404 image, and a text directing the user to click on a "Return Home" button to navigate back to the index page. 
 - the header and footer navigation remains consistent with the index page design and all internal navigation links on this page will direct the user back to the index page.
 - User stories covered: 13
+
+![Footer Section](docs/features/404-page.webp)
 
 ### Features Left to Implement
 The following features could be implemented in the future to provide users with more detailed information and further build prospective client trust through the website:
